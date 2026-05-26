@@ -1,0 +1,921 @@
+https://www.youtube.com/watch?v=QwGQq37bi54
+
+[0:00] Tick tock, time to rock. Is that Is that what we say? I've got David Wood with me. And if you've ever watched anything from him, that's how he starts all of
+[0:08] his live streams. So, I felt like I needed to to steal that from him. Well, if you don't know who David is, David, give a give a quick introduction of who you are. And we're going to get rolling
+[0:17] with this topic because you have actually you haven't really talked about this, right? The your academic work on the problem of evil. That's what your specialty is in. your academic like all
+[0:26] all of your stuff is is on the problem of evil and you never post any videos on the problem of evil. It's a weird situation but uh let the audience know
+[0:33] who you are first. Yeah, I'm David Wood and uh yeah, ju just to just to point out what what Cameron just pointed out
+[0:41] is that my academic background is in philosophy and my doctoral work uh was on the problem of evil, mainly one
+[0:50] particular version of the argument from evil. But at some point
+[0:57] I just decided to focus more on on Islam. But yeah, I did just as we were getting ready here, I was thinking, why don't I put together like a big series
+[1:06] on the problem of evil since that's that's my that's my background. Yeah. So maybe may Yeah, maybe I'll maybe I'll put something together.
+[1:13] Yeah. Well, that's what we're talking about today. And we're going to get into some really interesting things and you're going to hear some some things about the problem of evil that you probably didn't know existed, some maybe
+[1:21] some responses to it. And then also the main focus of this obviously is David Wood. He's going to explain kind of what his dissertation was about. what are his
+[1:28] thoughts on the problem of evil more generally and then the specific version that he looked at in his dissertation was the beesian problem of evil which is
+[1:36] a kind of or with the problem of evil there's not just like one version that's that's important to know is that there's not just like you know evil exists so
+[1:44] therefore god doesn't exist that's kind of like a basic level version that you you hear sometimes from from atheists or maybe even like your neighbor or someone
+[1:52] that's close to you but there are very sophisticated versions of it that avoid a lot of the the objections that you that you see. And we we'll get into all
+[1:59] of this. So, how about we start? Well, let me let me let you know that if you want to check out David Wood and and more of his stuff, I've got his channel linked in the description of this video.
+[2:08] So, just right below do a little drop down. And actually, while you're there, why don't you go ahead and subscribe to the channel and turn on the bell so you can get notifications when we post
+[2:16] videos. All right, let's uh with that, how about I pull up your abstract from your dissertation where you talked about the problem of evil, a specific version
+[2:24] of it, like I mentioned, and I'm just going to read the whole abstract, and then based on that, you can just talk about whatever you want. What do you think?
+[2:32] Yep. Sounds good.
+[2:33] Cool. All right. Cool. So, here's the abstract from his dissertation, and this is when he got his his PhD. This is what he wrote on. In part 11 of his dialogues
+[2:41] concerning natural religion, David Hume presented an argument against theism that would now be loosely classified as
+[2:48] beesian. More recently, Paul Draper, he's an agnostic philosopher. I think he's a agnostic as opposed to to
+[2:55] atheist. Paul Draper has formalized and expanded upon Hume's reasoning, giving us what some philosophers regard as the most sophisticated version of the
+[3:04] problem of evil through comparison with the logical and inductive forms of the argument from evil, careful analysis of
+[3:11] Hume's dialogues in Draper's writings, and considerable discussion of previous responses to Draper's case. This dissertation examines the philosophical
+[3:19] relevance and persuasive power of the Beesian argument from evil. due to the argument's use of controversial principles of inference, its treatment
+[3:28] of theism as a quasi scientific hypothesis, its reliance on a beesian fallacy, and its susceptibility to reput
+[3:35] reputation by defenses, theodysies, counterbalancing evidence, and different views of theism. This dissertation concludes that the Beaesian argument
+[3:44] from evil fails on multiple levels. It's a big claim. When the flawed elements of Draper's argument are stripped away, we
+[3:51] are left with an appeal to a weak form of evidentialism which is neither novel nor interesting. Super super
+[3:59] interesting. Super lot lots of things to talk about. Why don't we first talk about the different kinds the different versions of the problem of evil? That might be a good place to start.
+[4:09] Yeah. So the the traditional breakdown of the arguments has been into the logical versions of
+[4:18] the argument and the inductive uh well and the evidential versions of the argument. So the logical version of the
+[4:26] argument from evil actually maintains that there's a contradiction. There's a contradiction in the theist's mind. If
+[4:33] you're a theist, you believe that uh if we're talking about traditional theism, then you believe that an all powerful,
+[4:42] all- knowing, perfectly good being exists.
+[4:47] And yet, you also believe that there's tons of evil and suffering in the world.
+[4:53] So, you have the the breakdown with with evil is is what's called natural evil.
+[4:57] So these would be things like earthquakes and tornadoes and corona virus and things like that. Um we don't
+[5:05] normally think of those things as as evil because we think of evil as having a moral component but philosophers generally use it as you know bad things.
+[5:12] And so that's called natural evil as opposed to moral evil. Then you have moral evil. You know people going around killing each other, racism, things like that. And so the idea is if you believe
+[5:21] in something, if you believe in a being that has all the power that can possibly be had and is as good as possible, then there shouldn't be evil in in the world.
+[5:32] And so the claim of logical versions of the argument from evil is that if you're a theist, you have a you have a
+[5:41] contradiction in your mind. You have things that just cannot be reconciled.
+[5:46] And so historically that was the main version of the argument from evil. Uh it's put forward as a contradiction in
+[5:54] the thinking of theists and that's no longer the case. Uh almost no one at the philosophical level
+[6:02] now. So philosophers no one takes that seriously. You still find it online. You still find it uh it might be popular to
+[6:09] some extent among like internet atheists or something like that but u no one takes it seriously anymore. And and the reason for that is a lot of the work of
+[6:17] of Alvin Planaga, but um to for the logical version of the argument
+[6:24] to succeed, you'd have to know something like God can't have
+[6:31] morally justifiable reasons for allowing suffering or allowing the kinds of suffering that that we see around us.
+[6:39] And you can say, well, as an atheist, you can say, well, I just I can't think of any any good reasons or something like that, but the claim that God has reasons for allowing suffering would have to be necessarily false.
+[6:51] And there's just no way to show that, right? You can't defend that claim. So, and Planinga's example is called the the free will defense. But what if what if
+[6:59] God thinks that free will is really important because you can't have certain things without it? You can't have moral
+[7:07] freedom. you can't have certain kinds of love and so on without free will. What if God believes that free will is really
+[7:15] important because of that. And what if the evil we see around us is the result of free will. So human beings doing evil
+[7:23] to one another. But Planaga says what if even the natural evil, what if earthquakes and so on are the result of
+[7:32] evil beings using their free will. So going around pushing tectonic plates and things like that, we would find that ridiculous. But that's not the point.
+[7:40] The point is, is it logically impossible? And no philosopher is going to say that's logically impossible that
+[7:47] there are, you know, powerful beings pushing around tectonic plates. They'll say it's silly. They'll say it's ridiculous, but they're not going to say it's impossible. And so what happened
+[7:56] here with the logical version of the argument from evil is is is basically requires too much. In order to show that
+[8:03] there's an actual contradiction in the argument, you have to maintain that you know claims like God has reasons for
+[8:11] allowing suffering are somehow necessarily false. And at the again at the popular at the popular level, people
+[8:19] don't pe lots of people don't understand that if you're saying that something is a logical contradiction, you have a pretty high burden of proof that's on
+[8:26] you to show that there's a logical contradiction and not just I'm going to call it a logical contradiction because that's how it seems to me even though I can't defend it. uh whereas you know
+[8:36] philosophers are are aware of the fact that if they say this is a contradiction then they have to they have to be able to defend that claim and there's just
+[8:44] too much in the logical version that you would have to rule out that you just can't and so this doesn't keep in mind
+[8:53] this doesn't mean that there's no problem of evil or that there's no successful argument from evil it just means that whatever the problem is it's
+[9:02] not that there's a contradiction in the atheist's thinking and this is true even according to people like William row
+[9:09] who's one of the main defenders of he's passed on now but uh he in the modern day he's one of the main defenders of
+[9:16] the argument from evil um Paul Draper and others they point out that that the traditional argument just fails it's a it's not a good argument
+[9:25] and by traditional argument you're still referencing the logical version of it right the one that says that there's a sort of contradiction between God's
+[9:32] existence and the existence of evil there's like a contradiction and they've tried to they've they've tried to explain or tried to
+[9:40] give a defense of of how those two are in in conflict. But sort of what you're saying is that there's there's a there's a way out. And the way out is
+[9:48] that God has a reason for allowing the evil in the world. And uh there's a there's another philosopher, his name is what is his name? Pike.
+[9:57] I've got it written down here. Uh Nelson Pike. And he bas Yep. And he says that basically he he gives a parent analogy.
+[10:04] It's like I am able to prevent my child suffering by like giving them medicine.
+[10:10] And and so suppose that the medicine that I give them is just like really disgusting. It tastes really gross. So it's going to like cause them to suffer a little bit. But so I can prevent that
+[10:19] that suffering. I can prevent them from taking this medicine.
+[10:23] But nevertheless, I have a good reason to give them the medicine. It's because it's going to be good for them. So just because you can prevent some evil doesn't mean that even if you're a
+[10:32] loving being, it doesn't mean that you're going to prevent that evil. You may allow that evil because you know it's going to bring about some greater good. So
+[10:39] that's that's one I I guess uh a a popular response by another philosopher who's argued something along the same lines. Yeah. Go ahead.
+[10:48] Yeah. Let me let me give an argument along those same same lines because I find that lots of again lots of atheists at the popular level will want to resist
+[10:55] any response. And here the one so let me give let me give an example along those same lines because something that actually happened and uh I was thinking
+[11:02] about this one day but um uh one of my one of my sons when he was I think he was about I think he was about to turn
+[11:10] one so he was around one year old and the doctor said he needed four shots and so the doctor told me to hold him down
+[11:17] while he gave him four shots and I remember my son looking at me like it was like he he's looking at me and he's
+[11:24] like he's looking at me thinking you're my dad, right? Why are you holding me down as this guy stabs me repeatedly in my leg? And so I was
+[11:34] thinking about that in the context of the argument from evil. If he were able to formulate an argument without knowing that there's a reason that I'm holding
+[11:41] him down and he's getting stabbed in the leg. If you were able to formulate an argument, it would be something like, you know, if my dad really loved me,
+[11:49] then he wouldn't be helping this guy stab me in the leg. But he is helping this guy stab me in the leg. therefore my dad doesn't love me. Uh so he'd be
+[11:58] able to put together uh an argument for why I don't love him even though it's just because at a as a one-year-old he
+[12:04] cannot comprehend the reasons that we have for doing things and that there's a there's a greater good involved. The atheist reply to that is but if you're
+[12:12] talking about an all powerful being an all powerful being is not in that situation, right? An all powerful being
+[12:19] is not in the same situation of well the only way for my son to be you know protected right now is to get these
+[12:28] shots. An all powerful being can just say oh problem solved snap of the fingers right doesn't have to go through uh these means to an end. But um if
+[12:38] you're thinking on a if you're thinking on a bigger scale like are there certain things that God can only get by allowing free will or are there certain things uh
+[12:47] are there reasons for God to allow suffering? Uh something like a a soulbuilding theodysy where God allows suffering
+[12:55] because it helps us develop virtues and things like that. uh are there things like that where in order to achieve these results you would would have to
+[13:04] allow suffering and so here again an atheist could say well I just don't believe that or that sounds silly that is not the issue for this particular
+[13:12] argument for this particular argument the only claim is can you say it's necessarily false that God has reasons for allowing the suffering we see around
+[13:20] us and again pretty much no philosopher on the planet right now is willing to say yes it's necessarily that that statement is necessarily ly false. And
+[13:28] so again, this doesn't mean there's no problem of evil. It just means you're not dealing with a logical contradiction here. You're dealing with something
+[13:36] else. And so what you're dealing with is is an evidential kind of argument.
+[13:40] You're saying that God probably doesn't exist or that evil counts as some evidence against God's existence. Even
+[13:47] though uh it's possible that God exists and evil exists, it's it's uh it's not a contradiction, but nevertheless, evil is
+[13:56] some kind of evidence against the existence of God. And so that's what goes into uh evidential versions of the argument.
+[14:01] Yeah. So why don't we go ahead and turn to to those? Just go ahead and and lay a popular one out. Is that is that a lot different from like the Beesian
+[14:10] formulation of of the argument from evil or is it or is it along the same lines?
+[14:14] Yeah. So um the the breakdown in recent decades has been between uh logical argument versus evidential arguments.
+[14:24] But you can break down evidential arguments into a couple different forms.
+[14:27] And so something like William Rose version um is an evidential argument whereas the the basian argument is a kind of evidential argument. But you
+[14:36] could break them down in in terms of you could call Rose's argument a kind of inductive argument and then you'd have a basian argument and those would both be kinds of evidential arguments in in
+[14:44] evidential in the sense that they're claiming that this is that this is evidence against uh the position of theist. Um let let me just give to because I mentioned that William William
+[14:52] Row and Paul Draper um who are both well again Ro is dead now but uh Row and Draper uh were both
+[15:00] uh are both proponents of the argument from evil and yet they acknowledge that the earlier version of the argument the logical argument fails. Let me just give
+[15:09] two quotations so people don't think that you know just we're we're Christians and therefore we're rejecting the argument. So William Rose said,
+[15:16] "Some philosophers have contended that the existence of evil is logically inconsistent with the existence of the theistic god. No one I think has
+[15:24] succeeded in and establishing such an extravagant claim." So this is a an agnostic um philosopher saying no one succeeded
+[15:33] in in defending this argument. Paul Draper says the problem is not that some proposition about pain and pleasure can be shown to be both true and logically
+[15:41] inconsistent with theism. rather the problem is evidential. So that's um that's why these guys are going in an evidential uh in an evidential uh route.
+[15:53] So if we want to give an inductive, this will be a famous one from um pulled up William Row's version of the argument
+[16:00] here. So William Row is kind of the one who came out and championed and popularized uh an evidential version of the argument
+[16:09] from evil. So I'll read through this and if any of this sounds confusing, no problem. We we'll break it down. But he says the premise one, the world contains
+[16:18] instances of human and animal suffering that could be prevented by an omnipotent omnisient being. So the claim here is
+[16:25] just in our world there are instances of human and animal suffering that an omnisient omnipotent being could
+[16:32] prevent. And I don't think any theist is going to uh reject that claim. In other words, you know, someone dies, could an
+[16:39] omnipotent being stop that? Yes. Uh if you stub your toe, can could an omnipotent omnisient being prevent that?
+[16:46] Yes, of course. Obviously. So, no much not much disputing that. Premise two.
+[16:51] Some of these instances of suffering do not appear necessary for obtaining some greater good or for preventing some
+[16:59] greater evil. Some of these, let me read that again. Some of these instances of suffering, so people dying, people in
+[17:06] pain, people getting sick, some of these instances of suffering do not appear necessary for obtaining some greater
+[17:14] good or for preventing some greater evil. Now, notice he doesn't say that they're not necessary because in
+[17:22] order to defend that, he'd have to show again he'd he'd have to it looks like he would be defending some sort of logical version of the argument. He's just saying they don't seem that way. it
+[17:29] doesn't seem like these uh instances of suffering are necessary. So when you see
+[17:36] some child get some horrible disease uh and die from it, it doesn't seem like, oh yeah, but there's peace in the
+[17:44] Middle East now because of that child's suffering. It just seems like they're suffering. It doesn't seem like there's some some sort of point to it. Premise
+[17:51] three, a holy good being. That mean so holy not in the sense of you know holy holy holy but holy like in completely a
+[17:59] completely good being would as far as possible prevent instances of suffering unless they were necessary for obtaining
+[18:06] some greater good or for preventing some greater evil and the conclusion is therefore no holy good omnipotent
+[18:14] omnisient being exists. So if you put all of this together, um he goes in a this is an evidential
+[18:23] kind of argument because he doesn't say there's definitely no reason for God to allow suffering. It's there's apparently
+[18:30] no good reason for God to allow all of the suffering around us. And so if if God's um if God being completely good
+[18:39] means that he would want to do away with these pointless instances of suffering and if he's
+[18:48] omnipotent and omnisient he would be able to and we grant that he's able to then he wouldn't allow suffering. He
+[18:55] wouldn't allow what we see around us unless he had some some greater good that he was focusing
+[19:03] on. And yet we can't even think of any greater good here, any any higher reason that God would need to allow this sort
+[19:10] of thing. And so Rose Rose's conclusion is not just, oh, therefore God definitely does not exist. It's doesn't
+[19:19] really seem like God exists. Is it possible that God exists? Of course, it's possible that God exists, but it's kind of it it's kind of odd to
+[19:27] think that God exists when we can't think of any good reasons for God to allow the suffering that that we see around us. And so, it's it's a it's a
+[19:35] probabilistic or evidential argument rather than than a logical argument. Yeah. So, a couple things to note here.
+[19:41] So, first of all, this argument is a lot different from the first one in that it's a lot more modest. So, the conclusion is not like you said, it's not that God definitely doesn't exist.
+[19:50] It's that, yeah, kind of seems like God doesn't exist. And when you have a more modest claim like that, it's going to make it a little bit more plausible, a
+[19:59] little bit easier to uh accept. Depends on, you know, how you how you go about defending it and whatnot. But modesty, this type of modesty is usually a good
+[20:06] thing in philosophy. When you can make less extravagant claims, then it's going to appear a little bit more plausible to
+[20:15] to people. So that's that's actually a good thing about his argument is that it's a little bit more modest. Now, how would you go about
+[20:23] uh responding to this version of the problem of evil?
+[20:26] Yeah. And that's what's uh that's what's interesting is that now there are there are philosophers who even reject that argument. And there there are multiple
+[20:35] there are multiple reasons there are multiple ways you could go after this uh this version of the argument. You could
+[20:43] um you know, you could you could point out inconsistencies and unproven assumptions and ambiguous terms and so on. Uh but
+[20:51] notice you could grant everything in the argument. You could grant everything he just said right there and conclude that okay, there's this is a certain amount
+[21:00] of evidence against the existence of God, but I can outweigh the evidence you've presented by giving arguments for
+[21:06] theism. you if the logical argument from evil were successful, then arguments for theism would be irrelevant. You would it would be, you know, like I have all these arguments for a square circle.
+[21:16] Well, I don't I don't care what arguments you have for a square circle.
+[21:19] There's no square circle. It's a contradiction. Um, so if the if the logical version of the argument were successful, then then other evidence is irrelevant. If you have a a
+[21:28] probabilistic argument, you're saying this makes the existence of God improbable as far as this evidence is concerned. You could in theory show, well, yeah, but I have evidence that
+[21:36] outweighs that. So, I have I have greater evidence there. Um, and of course, you can you could do sort of the same thing. You could offer reasons for
+[21:45] God to allow the suffering. So, as far as some of these instances of suffering do not appear necessary for obtaining
+[21:53] some greater good, lot lots of lots of times we're thinking of like very specific things like this person dies
+[22:00] and what is the good that arises out of that as a per as opposed to more global um goods like God just allows you know
+[22:09] suffering because there are reasons for God to just allow suffering in general.
+[22:15] Um but the the main the main reason even this argument has fallen out of favor is the rise of what's called skeptical theism.
+[22:26] Skeptical theism here. And so skeptical theism is the claim that
+[22:33] in effect if God had reasons for allowing suffering you would have no reason to think that you would be aware of those instances of suffering.
+[22:44] Basically, premise two of Rose's argument, be aware of those reasons.
+[22:47] Yeah. Yeah. So, once you get your mind around this, you start to see a problem with the argument. And by the way, this
+[22:55] problem is what leads to the basian argument. The basian argument from evil is meant to avoid this problem. And so,
+[23:04] uh, here again, at the popular level of of atheism, atheists will not want to
+[23:11] grant skeptical theism. Whereas if you're, you know, if you're taking this seriously and you're trying to come up with a really good argument, you have to take this seriously. So, uh, let me read
+[23:20] this premise again and we'll, we'll, we'll break down the problem because it it might, it's a little tricky to to get your mind around what the problem here is. Um, so some of these instances of
+[23:27] suffering do not appear necessary for obtaining some greater good or for preventing some greater evil. Meaning,
+[23:33] when I see a tornado wreak havoc in a trailer park, I think, well, what's the greater good there? I don't see any
+[23:41] greater good. Right? So, it doesn't seem like it's necessary for something. Now, the question here is whether that means
+[23:50] whether me not being able to think of any good reason for God to allow that means that God probably has no good
+[23:58] reason to allow that. So, that that's the real connection. you're you're you're reasoning from there don't there don't appear to be any good reasons for it to well therefore there probably are
+[24:07] no good reasons for it and therefore God probably doesn't exist. The problem with that is that kind of inference is only
+[24:15] as good as the basis you have for thinking that if there were reasons then you would be aware of them. Now that's confusing but we'll we'll use an
+[24:23] example. If if I say there's probably no adult rhinoceros in
+[24:31] this room right now, there's probably no adult rhinoceros in this room right now.
+[24:36] And you say, "David, how can you make that claim? How can you say there's no adult rhinoceros in this room?" Well, that is a a a good conclusion. If I say
+[24:45] there's probably no adult rhinoceros in this room, and you say, "Why?" I say, "Well, because if there were a fully
+[24:52] grown rhinoceros in this room, I would be aware of it." Well, why would you be aware of it? Well, a rhinoceros is a really big creature, and if there were one in this room, I have really good
+[25:01] reason to suspect that I would be aware of it, and I would see it. But I don't see it, and therefore, I conclude it it's it's just silly to think one is h, you know, hiding under hiding under
+[25:09] something. So, that is a good inference there. But suppose I used a a different a different um bit of reasoning here.
+[25:20] Suppose I said there's no insect in this room and you said, "Well, David, what's your basis for saying there's no insect in the room?" I said, "Well, I'm looking around and I don't see an insect.
+[25:29] Therefore, there is there isn't one." Well, that that's no longer a good argument. That's no longer a a good inference there. The reason is many
+[25:38] insects are very small. In fact, that's pro it's probably there probably is some sort of insect, a gnat or something
+[25:44] somewhere in this room. So, me not being able to see an insect is not good evidence that there isn't one in this
+[25:53] room. Me not seeing a rhinoceros would be good evidence that there's not a rhinoceros in this room. Because if there were a rhinoceros, I would expect
+[26:01] to see it. If there were a small insect, I wouldn't expect to see it. It's always possible that it would fly in front of my face, but apart from that, I just wouldn't be I wouldn't be aware of it.
+[26:09] So, how does it how does this relate to the um the inductive argument from evil?
+[26:16] Well, Ro is saying, well, since I'm not aware of any reasons for God allowing these instances
+[26:24] of suffering, therefore, there probably isn't one. The is that here's the question for philosophers. Is that more
+[26:32] like is that more like the claim that there's no rhinoceros in this room?
+[26:36] meaning that if there were reasons then I I would be I would expect to be aware of them like if there were a rhinoceros in this room I would expect to be aware
+[26:43] of it or is it more like well I don't see an insect and therefore there probably isn't one and philosophers have
+[26:52] generally concluded that it's more like the latter in the sense that if if God knows everything if God is
+[26:59] omnisient if you think of like this as all knowledge that can be known how much of that would we be aware of? Well, a
+[27:08] tiny little dot. The amount of human knowledge that humans possess when compared with omniscience would be a tiny tiny tiny little speck.
+[27:19] And so, what business do you have as a human being to say if God had reasons for allowing evil, then we would be aware of them?
+[27:29] That's actually an unstated assumption in Rose's argument when he gives premise two and he says some of these instances
+[27:37] of suffering do not appear necessary and then he concludes therefore probably God doesn't exist when you put all the premises together. It's um
+[27:46] there's this unstated assumption. The unstated assumption is I have good reasons to think that if God had reasons for doing thing I would have access to
+[27:54] those reasons. I would be informed of those reasons. Now, you can always say, well, God would God would tell us or something like that, but this this doesn't change the point
+[28:03] here because you could always say, what if could God have reasons for not telling us what the reasons are? Um, you
+[28:11] have to defend at some point for this version of the argument to succeed. You have to defend at some point the claim that we would be aware of God's reasons.
+[28:21] And therefore, us not being able to comprehend God's reasons for allowing suffering actually means that there probably are none.
+[28:29] And so if you reject that, if you reject that claim, a as you should, even if you're even if you're a devout atheist,
+[28:36] even if you are a devout atheist, I think you should say, "Okay, if God did exist and God had all kinds of reasons
+[28:44] that we are not aware of because God is omnisient and we're not, could God have all kinds of reasons for doing things that I'm not aware of?" Yes, God would
+[28:52] most certainly have all kinds of reasons for doing things that we are not aware of. And therefore, is it a good assumption in an argument to think that
+[29:01] if God had reasons, we would be aware of him? No. That's a completely false assumption. That's a ridiculous assumption to think that we would have access to God's reasons for doing
+[29:10] things. Again, he could tell us, but what if what if he doesn't? Do we think that therefore they don't exist? No, you just can't you can't you can't defend
+[29:18] that. And so here again the point is not the point is not that there's no problem of evil or that there's no argument from
+[29:26] evil. The point here is that this particular version of the argument has a weakness and has something in it that
+[29:34] can't really be defended. So as with the logical version of the argument, if you really wanted to defend it, there are some things in there that you have to
+[29:42] defend that philosophers just don't can't defend really well. And if uh if you have this other version of the
+[29:50] argument, this inductive form of the argument, well, you have some you have some assumptions in here that you can't actually defend. And even if you say you
+[29:59] believe it, even if an atheist says, well, I personally believe that if God had reasons for allowing evil, I would have access to them. I think I'm really really smart and I would know the same
+[30:06] things that God that God knows. you the the theist is under no obligation to agree with your argument at that point
+[30:13] because he he rejects and basically an unstated premise. You've got here are the premises of my argument. No, you have one that you didn't put on there that's required for your argument.
+[30:22] Namely, that if God had reasons, you would be aware of them. And so you can conclude if that were true, then you can conclude, well, since I'm not aware of them, therefore there probably are none.
+[30:31] But until then, you just can't. And so this isn't the point here isn't that therefore there's no problem of evil.
+[30:37] It's the question is how do you formulate the argument from evil in a way that avoids this unproven assumption
+[30:47] and uh so that's what that's what Draper set out to do and m matter of fact let me I just want to give a quote from row here William row so this is William row
+[30:55] in 1996 so in the 70s um and 80s William row was defending this uh evidential
+[31:02] argument from evil he's arguing that that god probably doesn't exist because I can't really think of any reasons for God to allow all the suffering.
+[31:10] Therefore, there probably are none. And then so throughout a lot of the 80s and the '9s, you had people promoting
+[31:17] skeptical theism. Namely, if God exists, then God is going to know all kinds of things that we don't know. And therefore, we have to be kind of
+[31:25] skeptical about our own ability to understand God's reasons for doing things. And so Ro eventually agreed with
+[31:34] the theists and with not not just with theists with other non-theists who are pointing out yes this argument has a
+[31:41] problem. So Ro said 1996 um after explaining his argument um so he he he talks about his his earlier
+[31:49] argument which is probably the most popular version of the argument in anthologies on the problem of evil and so on. He says of this argument, I now
+[31:57] think this argument is at best a weak argument. To shore it up, we would need some reason to think it likely that the
+[32:05] goods we know of are representative of the goods there are. So what he what he means there is when you're saying I
+[32:14] can't think of any any reasons for God to allow suffering.
+[32:18] You're you're saying here are all the goods that I'm aware of and I don't see how any of them are coming out of that that horrible suffering.
+[32:26] But Rose's point is I would have to I would have to for my argument to work for my older argument to work I would have to conclude that the goods I'm
+[32:33] aware of somehow reflect all goods there are. and he said, "I I have no basis for thinking that God is not aware of all kinds of other goods that I have no
+[32:42] access to or that I'm not aware of." So the point here is here again, if you line up a bunch of internet atheists and
+[32:50] you run through the logical version of the argument from evil, they say, "Yep, good argument, great argument." Whereas you go up to the, you know, the level of philosophers and the philosophers say,
+[32:58] "No, terrible argument." and you go to the evidential version of the argument and you present you line up a hundred internet atheists and show them that
+[33:06] argument, they'll say, "Yep, good argument. Slam dunk slam dunk case against theism." And you go up to the level of philosophers. And even the
+[33:13] people who defended the argument and were the ones who came out with the argument are saying, "Yeah, this argument's got some problems. We need a
+[33:20] we need a different kind of argument." All right, let me let me come in here and uh talk about a couple things. So,
+[33:27] you mentioned skeptical theism. And by the way, we're going to do some Q&A in just a little bit. So, probably another 10-15 minutes, David and I will continue talking. We'll talk about the uh the
+[33:36] last version of the problem of evil, the the last attempt to sort of make a good argument against God's existence from the existence of suffering and evil. So, we're going to look at that in just a
+[33:44] second, but then we're going to do some Q&A. So, if you are sending a few people have already sent in super chats, so we are going to back up and and get to those when we when we do some Q&A. So,
+[33:53] if you'd like to send in a question for David on this topic, make sure that it's it's relevant to uh the problem of evil.
+[33:59] And if you want to send that in as a super chat, thank you first of all, and then I can promise you that we'll get to it. Okay. So, that that out of the way,
+[34:07] you mentioned that uh basically that one of one of the ways that you motivated skeptical theism was you said that our
+[34:14] knowledge is very tiny in comparison to God's knowledge. So that was so that was one thing and and that I think goes back to kind of Michael Bergman and what he
+[34:23] said about our knowledge of the goods there are is not or we don't know that that what what we're familiar with is
+[34:31] representative of all the goods that there are. But I think there's another way that we could motivate skeptical theism and that's by way of complexity.
+[34:38] So imagine the good if there were a good that justified or made it Yeah. It made
+[34:46] it morally permissible to allow the Holocaust. Think about what would have to uh what what kind of good would have to be in place in order to justify that.
+[34:54] Now, there were what, 6 million Jews that died. There were there's a lot of things going on here that for one
+[35:02] person, one mind, it seems very unlikely that we would be able to wrap our minds around what type of good would be
+[35:10] involved here. And so one reason to motivate skeptical theism is that some of these goods may just be so complex
+[35:18] that we could never even hope to understand what the good is in the first place. So complexity is a is a potential motivating factor for skeptical theism.
+[35:28] Another thing to point out is that humility like this this is a stance of humility skeptical theism. It's like it's admitting the fact that we don't
+[35:36] know everything. There's a whole lot more that God knows than uh than we know. And so and atheists and agnostic skeptics are usually like they like
+[35:45] humility. They like to to say I don't know. And if you're watching this and you're a skeptic, you probably like to say that when it comes to like you know
+[35:52] what caused the universe? Why does the universe exist? You might be uh be fond of saying I don't know and be okay with
+[35:59] that. So why can't theists in a similar way say I don't know. Uh let let me let me uh let me just give an
+[36:07] example to illustrate uh something you were saying there because I remember uh way back in college. Um I was a I was a double major in biology and philosophy.
+[36:17] uh dealing with philosophical arguments in in philosophy classes and then I'm going in biology classes and uh I
+[36:24] remember being in one of my biology classes and they were giving examples of human beings introducing species into
+[36:34] areas where they don't have you know it's not there it doesn't exist in the area. So people bring rabbits down to
+[36:42] Australia because hey it'd be cool if we could hunt rabbits down here. can't hunt rabbits because there are no rabbits.
+[36:47] Let me let me bring some down. Um, and in other areas where oh, there's this harmful creature in the area, it has no
+[36:55] predator. Let me bring in a predator for that creature and so on. And over and over and over again, it ends in complete
+[37:03] disaster, right? Like you you destroy your ecosystem. Oh, let's bring frogs down here to do this. And oh, now the
+[37:11] frogs are destroying the ecosystem. Let me bring down some snakes that eat these frogs. up. Now these now the the snakes have destroyed the ecosystem. And the
+[37:18] reason is we kind of have this super simplistic thinking of oh here's this problem. Here's what we need to fix
+[37:27] that instead of you are not grasping how all of these things in this ecosystem are connected. You're not
+[37:35] you're not even you your mind cannot even grasp all the connections here. And so you're thinking well why not just do this?
+[37:42] And then you think, "Oh, well, I'm just going to do that to fix all of this." And it ends in complete disaster because you don't understand how how all of these things are connected. And and here
+[37:51] I'm not I'm not even I'm not even defending the claim that God allows this because he is aware of all these intricate connections. I'm saying if you
+[38:00] have a drop of skepticism in you, it should be, hey, in order for me to make my argument, I need to make it in a way that that that
+[38:08] kind of makes that improbable. um that that kind of makes it improbable that God could have all of all of these reasons or you need to change your
+[38:16] argument and use it put forward an argument that doesn't depend on on that kind of assumption.
+[38:21] But yeah, and I mean in addition to this, we've we've only been talking about skeptical theism, but there are other ways to respond to the argument like introduce
+[38:28] some type of reason that God would have for allowing these these real terrible things. Yeah. Theodys.
+[38:33] So yeah, theodysies. So there's there's other ways to respond that doesn't rely on this. So if you have a problem with skeptical theism, you don't necessarily have to take that route. But I I agree
+[38:42] with you that it is probably the major reason why people have have uh turned away from offering that version of it.
+[38:48] So let's turn now to the beesian version of the of the argument if you're comfortable doing that and then we'll move to some Q&A.
+[38:55] Oh yeah. Uh let let me just let me just give one more point on on what you just on what you just said. Um that you know you could still give arguments for why
+[39:03] God allows suffering. And here I think is another it's a different kind. It's a different kind uh of of point as far as
+[39:12] skeptical theism is concerned is suppose suppose someone says I believe that God allows all this suffering because God
+[39:20] has a you know really high regard for free will and because um in order for human beings to develop and become and
+[39:28] develop virtues and so on they need to go through some stuff. If you look at the people in your life who are the most spoiled, horrible human beings are
+[39:36] usually people who got everything they wanted in life and they can't even get their minds around not getting it. And so if you look at the the best people
+[39:43] you ever you've ever met, there are usually people who who had to go through some stuff. We developed morally by going through different struggles and so
+[39:50] on. And the you know the the response the respon and I get this I get I get why this is the response but the the you
+[39:58] know the atheist response is come on really all of this God's allowing for for for those reasons but if we're talking about skeptical theism here
+[40:07] you should be thinking along the lines of well could one if if there are some goods that I'm aware of that come out of
+[40:15] this could God have additional ones that I'm not aware of certainly if theism were true that that obviously be the case. So if there are certain good
+[40:23] states of affairs that seem to depend on bad states of affairs, is it possible that there vastly more than these? Well,
+[40:30] yes. So, so that's one problem. Two, which I think lots of people ignore. Do you think it's possible that God's values are somehow different from yours?
+[40:41] I think this is one of the main problems that that uh Hud Hudson points that out, too.
+[40:48] Yeah. Yeah. I I mean, no, I'm thinking just I'm thinking in very very simple terms here. Like, I'll post a video and I will get I will get a message from
+[40:56] someone, David, I like all your other videos, but I hate this one. Stop doing this. And I'm thinking, wait a minute, I
+[41:02] got to, you know, this is 99.5% approval rating. 99.5%
+[41:09] thumbs up likes. And you're saying, don't do this anymore because you don't like it. Well, it seems that there are people who can't even get their minds
+[41:17] around the idea that other people might have values that are different from theirs and that just because they really
+[41:26] really like something or really really dislike something doesn't mean that that's the way things are or the way things ought to be. Lots of people just
+[41:33] can't get their minds around this. They think, "No, this is this is what I like and this is what I dis dislike and you know this is the order. This is the order that I would place these goods
+[41:42] in." So the most important good is this and the next most important would be this and the next most important would be this and the next most important would be this and they really think well that's how everyone else needs to be and
+[41:50] with the argument from from evil it's and that's how God would be if God existed. God would have the, you know, those those good states of affairs. That
+[41:57] would be the God's priorities up. But I don't see I don't see God doing things the way I would want him to. And therefore, therefore, God probably
+[42:06] doesn't exist. When here again, whether you're theist or non-theist or whatever, there is a healthy kind of skepticism here of, you know, hey, here's what I
+[42:15] like and one, lots of people would think differently and I I should be considering the possibility. one that God's sort of
+[42:25] value system would be very different from mine and and two that God is is aware of all kinds of things that that I'm not aware of. This this this doesn't
+[42:32] mean theism is true or that there's no problem of evil. It's just if you're saying you have an argument against the existence of God, you should be aware of
+[42:40] these things and you should be trying to formulate an argument that doesn't depend on assumptions that that just make no sense.
+[42:47] All right, let's move on to the next one.
+[42:50] The basic I've got the slide. Yeah. Should I put it up? Should I put the slide up?
+[42:54] Uh, yeah. Put put the slide up and have that there for a couple minutes and I'll kind of break it all down. And ladies and gentlemen, if you're new to this,
+[43:02] this is going to look confusing at first, but we will explain all of this in here and then it will be clear and
+[43:10] then you'll have an idea of of a kind of basian argument from evil. And what's cool is the basian argument from evil
+[43:16] for the it avoids the problems of the logical version of the argument and once you flesh it out it avoids
+[43:25] the problem of the inductive versions of the argument. So it doesn't have those problems. uh once you once you
+[43:33] understand what's being claimed, it doesn't it doesn't rely on the claim that if God had reasons for doing
+[43:40] things, we would somehow be aware of them. Um so let's go ahead and look at the argument. Again, this looks confusing. I'll just read through it once and then we'll talk about what all
+[43:48] this stuff is. So one E is known to be true and E there's going to be some sort of evidence about human and animal
+[43:56] suffering in the world. Something along those lines. You can put all sorts of different things in for E.
+[44:02] Premise two, the probability of E given N is much greater than so it's greater
+[44:10] with an exclamation point meaning much greater than the probability of E given T. And so here there are different
+[44:18] values you can put in for N. Uh there I put N because we'll just we'll just talk about naturalism. Here the claim is the
+[44:26] probability of this evidence human and animal suffering let's say given the assumption that naturalism is
+[44:35] true is much greater than the probability of this evidence given theism or given the assumption that that theism is true. So we we'll break this
+[44:43] down even more. Again this will this will this will be confusing for a couple of minutes and then you'll understand everything that's in there and you'll understand the argument and then we're
+[44:51] all we're all good to go. uh premise three T which is theism. Theism is not much more probable intrinsically than
+[45:01] naturalism. So N is theism is not much more probable intrinsically than naturalism. And the conclusion therefore
+[45:08] all else held equal theism is probably false. Now what what Draper has done here and this isn't specifically
+[45:16] Draper's had Draper has multiple versions of the argument. So sometimes he uses naturalism, sometimes he uses
+[45:23] some other alternative hypothesis, but the hypothesis of indifference. This is the base.
+[45:29] Yeah. Yeah. Yeah. That's the one he originally came out with, which is uh which um it's
+[45:36] it's it's a stronger argument, I think, than this one and and lines up more with Hume's argument in the dialogues, but
+[45:44] it's not it's not something people are familiar with. If you say the hypothesis of indifference, then you have to explain the hypothesis. Whereas naturalism, most people nowadays understand what what naturalism is.
+[45:54] So um let's just go through these and we'll see how how he how he breaks this down is basically he divides things up.
+[46:01] Um let's look at premise three first. So theism is not much more probable
+[46:08] intrinsically than naturalism.
+[46:13] So, one of the issues to consider when you're examining a hypothesis, so a hypothesis that, you know, God exists or a hypothesis that naturalism is true.
+[46:23] Once you're um Oh, we're going to be looking at that multiple times. So, I'll keep
+[46:30] Okay. Yeah, that's a good idea. So, uh one of the things that you need to focus on is is what's called the intrinsic hypo uh the intrinsic probability of the
+[46:39] hypothesis. So the intrinsic probability of the hypothesis, this just means before you actually examine the evidence independent of the evidence, a
+[46:48] hypothesis could be more or less probable. And just to give an example here, uh this usually has to do with how simple the hypothesis is or how complex.
+[46:59] The more you pack into a hypothesis, then prior to investigation, prior to examining the evidence, the more you pack into a hypothesis or the more
+[47:07] specific it is, the less probable it is intrinsically. So just to give an example here, if I say that there's an
+[47:14] animal outside my door, well, that will have a certain level of probability. So again, this is before I open the door, assuming that I know nothing at all about what is behind my door right now.
+[47:25] If I say my hypothesis is that there is an animal behind the door. Well, that will have some certain level of
+[47:33] probability. Could be an insect, could be one of my kids, who knows? The more specific I get, then the less probable it is intrinsically. So, we're not considering what the actual evidence is.
+[47:42] We're just saying the intrinsic probability, the probability of it, just based on how much I pack into it. So, if I say there's an animal behind the door,
+[47:50] that is less specific than if I say there's a mammal behind the door. And uh if I say there's a mammal behind the
+[47:57] door, that's less specific than if I say there's a dog behind the door. And if I say there's a dog behind the door, then
+[48:05] that's less specific than me saying there's a poodle behind the door with a broken leg and a patch over one eye and
+[48:13] it's holding such and such squeaky toy or something like that. Right? Notice the more specific I get, the more there
+[48:20] is that could be false about the hypothesis. And so this is what you're talking about with intrinsic probability. So apart from actually going out and examining the evidence,
+[48:29] how probable is the hypothesis based on how specific it is and how much information that there is packed into it. So if we're comparing two hypotheses
+[48:38] like naturalism and theism, we have concerns about which which hypothesis the evidence supports. But uh
+[48:46] even before that, even before we consider the evidence, there's another consideration based on how much is packed into these hypotheses because you
+[48:54] could have evidence that that gives some support to one hypothesis. But if the other one already starts off as
+[49:01] massively more intrinsically probable, then you have to consider whether this evidence somehow outweighs that issue.
+[49:09] Draper doesn't argue that naturalism um or that some other hypothesis like the hypothesis of indifference. He doesn't
+[49:17] argue that these these hypotheses are much more intrinsically probable than theism. He just points out that whatever
+[49:25] the case may be, it's not the case that theism is somehow far more intrinsically probable than these other ones. So it doesn't have some massive advantage
+[49:33] starting out. And the reasoning would be theism is a very specific hypothesis with
+[49:40] respect to one being and that being's relationship to the universe. You're saying that an all powerful all- knowing perfectly good being exists. That is
+[49:48] very very specific claim to make and that this being is connected to the universe in such a way that this being you know created the universe. So that
+[49:57] is a very specific hypothesis. Whereas naturalism, naturalism is specific in the sense of sort of it's negative commitments. It's
+[50:06] saying that there is there's nothing of a certain kind, right? There's nothing beyond the natural world or something like that depending on how we define
+[50:12] naturalism. So, if you want a comparison here, um, if I said there is a humanlike
+[50:21] species on some planet in the Andromeda galaxy, well, there I'm saying that there's something prior to investigation. So, we haven't actually
+[50:29] gone out and seen it. Prior to investigation, if I say there's a humanlike species somewhere in the Andromeda galaxy, well, that's a very specific kind of claim. I'm claiming
+[50:37] that it's it's humanlike and that it it exists out there. versus if I said there's no life at all in the Andromeda galaxy. Well, there it's it's kind of a
+[50:45] negative claim. I'm saying that nothing of a certain sort exists. And it's kind of hard to really defend those kinds of
+[50:52] probabilities in in terms of saying, well, this one is much more probable than that one. But Draper here, Draper makes a good move. So, this is a modest
+[51:01] claim. Um Cameron pointed out that modesty is modesty is a a a positive when it comes to things like this. But
+[51:08] Draper says, he simply says that theism isn't much more intrinsically probable than naturalism. So it doesn't have some
+[51:16] sort of huge advantage. It's making a very specific claim and so it doesn't have some huge advantage prior to examining the evidence. So the question
+[51:23] then becomes, what happens when we examine the evidence? Well, premise one is true. E is known to be true. So whatever evidence we want to put in
+[51:31] there, um, you know, some pattern of human and animal suffering that we see around us in the world. So you know natural evil, moral evil. There's tons
+[51:40] of evil and suffering in the world. You could put whatever you want for e two is premise two is really this is
+[51:49] that looks complicated. It's not complicated. All this is saying, yeah, all this is saying is the probability of
+[51:58] having this kind of suffering all around us is much more probable if we assume that naturalism is true than it is if we
+[52:07] assume that theism is true. And why is that? Well, if naturalism is true, there's nothing looking out for us.
+[52:11] There's nothing, you know, ready to intervene and protect us from harm.
+[52:15] There's none of that. And so if naturalism were true, it shouldn't be surprising at all to us that the world is full of suffering. If there's if
+[52:23] there's no higher being that's looking out for us and protecting us, uh, and we're sort of natural creatures and we develop through a struggle for survival and so on, survival of the fittest.
+[52:35] Well, obviously there's going to be a a ton of suffering in the world. So it shouldn't be surprising at all on the
+[52:43] assumption that naturalism is true. But you could say it's much more surprising that we have all of this suffering
+[52:50] around us if theism is true. Why? Well, you have a being who created us all and set this world up and is capable of
+[52:58] intervening in any way he wants to protect us from this suffering, to protect children, to protect us from natural disasters. Yeah, you could say,
+[53:07] well, maybe there are reasons for God to allow this suffering and so on. But that doesn't change the fact that if you just started out with the hypothesis. So So
+[53:15] here here here's a little exercise that that you would perform in order to get your mind around uh what this means. This is called the surprise principle.
+[53:22] Um but let's let's pretend that you didn't know that the world is filled
+[53:28] with tons of suffering and you just think about the hypotheses naturalism and theism. If you just sit
+[53:37] back and think, okay, if naturalism is true, apart from me, let me pretend I didn't know anything about the suffering in the world. If I didn't know that this
+[53:46] world was filled with suffering, and I assume that naturalism is true, and then all of a sudden I open my eyes and I look around, I see all this suffering, how surprising would that suffering be?
+[53:54] And you could say, well, not very surprising. Not very surprising. I would I would expect all this. I mean,
+[54:01] I wouldn't be be extremely specific in what I would expect, but it wouldn't be terribly surprising. Whereas, if I just start out with the claim that an all-
+[54:10] knowing, all powerful, perfectly good being created this and all of a sudden I open my eyes and I see all the stuff
+[54:18] that's going around going on around going on around us in the world. Is that surprising? Well, yeah. Might might be
+[54:26] pretty surprising. You might say, "Whoa, you know, I might have expected some I might have expected that God would allow some,
+[54:34] you know, rebellion based on free will or something, but gosh, look around us.
+[54:38] This is this is messed up." So, he's notice he's not claiming that God can't have reasons or something like that.
+[54:44] It's just the evidence is much less surprising if you start off with naturalism than it is if you start off
+[54:52] with theism. And let's get that slide up one more time just so we can look at the conclusion how this how this all follows. So premise one, the evidence is
+[55:01] known to be true. I don't think anyone's going to dispute that. We know that there's a lot of human and animal suffering around us. Premise two, the probability of all of this human and
+[55:09] animal suffering on the assumption that that naturalism is true is much greater than the probability of all of this evidence on the assumption that theism
+[55:17] is true. And so basically there you'd say that the the evidence favors one hypothesis over another. The evidence
+[55:25] supports naturalism over theism. Three, uh, theism didn't start out with some huge advantage over naturalism. T is not
+[55:34] much more probable intrinsically than naturalism. And premise four, therefore all else held equal, T is probably
+[55:42] false. Now notice, all else held equal, T is probably false. What that means is there could be other evidence. There could be other evidence out there that
+[55:50] outweighs this evidence. But if we if all else is equal, then theism would have to be probably false. And notice
+[55:58] this doesn't mean that naturalism is true. Using this method, you don't show which hypothesis is true. You just show
+[56:05] that one is probably false. And the reason you can show that one is probably false is but not show that the other one is probably true is you can imagine a
+[56:13] situation where you have a hypothesis that has a probability of 01 or or 1%.
+[56:22] And you could show that another hypothesis is is far more probable. It fits the evidence much better. But maybe that other hypothesis has a probability
+[56:29] of 0.1 or 10%. Well, the hypothesis that the hypothesis with a probability
+[56:37] of of 0.1 is is far more probable than the hypothesis that has a probability of 01. But that doesn't mean that it's probably true. In fact, it wouldn't be.
+[56:46] It would be probably false. But what it would mean is the hypothesis that is far less probable
+[56:54] probably isn't true. It could be. It's possible that it's true, but it's it's probably not because it's less probable than another hypothesis, which may or
+[57:02] may not be true. And so all he's saying here is yes, there you could look at other evidence and outweigh this evidence, but basically he flips it back
+[57:10] on the theist here. So here's this is the true relationship. So the claim goes this is the relationship between
+[57:18] the the suffering or evil or whatever we want to call it around us in the world and theism. It serves as some kind of
+[57:25] evidence that theism is false. You theists could outweigh this evidence by showing that there's even greater
+[57:34] evidence for theism. But until you do, if we just hold all other evidence equal, we pretend that the evidence is is balanced for other things, then
+[57:42] theism is probably false. So notice he basically flips it back on the theists here to say, "Okay, here's the impact of
+[57:49] this evidence on your view. So what do you have that's going to outweigh this problem of this this
+[57:57] version of the problem of evil? What evidence do you have that will outweigh all of this? So that is uh that's one example of a basian argument from evil,
+[58:06] but this is a this is a pretty general form that uh that these arguments are going to follow.
+[58:12] Yeah. So what what how do you respond to this one? Do you do you go the route of being like, "Well, then we just look at more more evidence, more arguments for
+[58:20] God's existence that are going to ultimately outweigh it, or do you attack one of the premises? What do you what do what is your preferred approach?" And then we'll we'll do some Q&A.
+[58:29] Yeah, there are there are lots of there are lots of problems. I have multiple chapters um in my dissertation. I had some chapters on problems that other
+[58:36] people had pointed out and problems uh some problems that I saw. But just to give you I'll give a couple of quick examples about problems that other
+[58:45] people saw. The uh I wanted to point out real quick before you do that that like to to me it seems like two and three premises two and
+[58:52] three could both be objected to. Like one I think you even mentioned that one I think pretty much everyone's going to agree is true, but then two and three
+[59:00] seem like there's there's got to be a whole lot of work done to to show that those are more likely than not. But anyways is that
+[59:09] yeah there there there there are a few things here. So I mean as far as basian as far as
+[59:17] basian reasoning is concerned uh notice when you say that the probability of
+[59:25] theism is greater or less than the probability of this. These aren't situations where you're talking about some specific numerical probability.
+[59:34] Right? It's like if I say, you know, what are the odds that I that I flip heads on this coin? Well, that's okay.
+[59:39] There are two possible outcomes and one desired outcome. I can I can know I know exactly what the probability there is.
+[59:44] What's the probability of that an omnipotent, omnisient uh perfectly good being exists? It's not something that you say, oh, the probability is this.
+[59:52] Same thing with naturalism. It's not something that you say there's a numerical probability. So, you know, these these probabilities that you start
+[59:59] out with are going to be kind of subjective. And basianism is actually fine with that. As long as you kind of
+[1:00:06] update your the as as far as long as you update your probabilities in the right way, then
+[1:00:13] basianism is usually fine with you starting off with, you know, probabilities based on some some sort of you subjective uh criteria. Um as long
+[1:00:23] as you're updating it in light of the evidence. But there there are some issues. Let let me go and point out a couple of problems that other people have have pointed out. And um but the
+[1:00:31] the first response that I read to Draper's argument is one of the reasons I actually started focusing on this argument was I thought the response was
+[1:00:38] lame and didn't really un didn't really get the argument. So, um, one of the early responses, I think this is Richard
+[1:00:46] A, um, been out of this for for for a few years, but I think it was Richard A who argued that if you change the
+[1:00:54] hypothesis to something like Christianity, you get different results.
+[1:01:00] So, um, here here the response was, yes, you're inserting theism into this, but imagine you your hypothesis is Christianity.
+[1:01:10] So, can you say that the that the amount of suffering we see around us is more probable on naturalism than it is on Christianity? Well, if Christianity is
+[1:01:18] true, then we're in a world where people are in rebellion against God and God said that we were going to suffer from
+[1:01:27] our rebellion and so on. And so, you would expect the suffering that we see around us in the world. And so, that was one of the early responses to Draper's
+[1:01:35] paper. or hey, if you put if you put a different hypothesis in something like theism or you could put Islam in there, um if Islam is true, is the suffering around us surprising? No, of course not.
+[1:01:47] We're in rebellion against our creator and so on and so obviously there going to be problems.
+[1:01:52] So, uh I didn't think that was a good response and Draper actually responded to that, but his response usually doesn't uh doesn't uh appear. But the
+[1:02:00] problem with that is once you insert Christianity, now you no longer have the idea that something like
+[1:02:08] the hypothesis of indifference or even naturalism isn't much more intrinsically uh well that that that Christianity
+[1:02:16] isn't uh much more intrinsically probable, right? Um because Christianity is a whole lot more complex than just bare music.
+[1:02:25] Yeah. If you're taking Christianity as like, you know, the claim that everything in the Bible happened and that the fall and all this stuff, that is a massively massively massively
+[1:02:34] specific and complex theory. You have a ton of stuff packed into it. So, prior to investigation, prior to seeing whether the whether Christianity is
+[1:02:43] actually true, a a much simpler hypothesis is going to be far far far far more intrinsically
+[1:02:51] probable than that. And so, you just end up with a different kind of problem.
+[1:02:54] you'd need. Okay. Well, if you don't want to outweigh the evidence from evil, then you have to outweigh, you know, the evidence that this this other hypothesis
+[1:03:03] is far more probable intrinsically than yours. So, how do you outweigh that? So, the kind of result will be the same. You need to establish a lot of evidence for
+[1:03:11] your hypothesis. So, that wasn't very good. A more interesting one was put out by Alvin Planaga where Planaga just
+[1:03:18] tends to give parallel arguments to show that there is a problem with the reasoning. So, Planaga starts with um
+[1:03:26] something like this. Plan says, "Okay, um let's start off with the evidence being the evidence claim." So, the E is that there's a dog within 10 ft of me.
+[1:03:39] And let my two hypotheses be one, I'm in my office, or two, I'm in a dog kennel.
+[1:03:47] So my hypothesis my hypotheses are one I'm in my office and two I'm in a dog kennel and my evidence is there's a dog
+[1:03:55] within 10 ft of me. So well guess what the prior to actually any sort of investigation.
+[1:04:03] The evidence that there's a dog within 10 ft of me is much more probable on the assumption that I'm in a dog kennel than it is on the assumption that I'm in my
+[1:04:11] office. You know we usually don't expect dogs to be in someone's office. And so um whereas you do expect dogs to be
+[1:04:20] around if you're in a dog kennel. And so Planica says should I therefore conclude that I'm not in my office
+[1:04:27] because of that particular evidence and most of us would would would say no because planning is he's writing he's
+[1:04:35] writing that paper in his office and he says but my dog is sitting here my dog like my dog comes and sits down in my office sometimes. So the the problem
+[1:04:44] here, how much evidence are you actually providing? Are are you providing EV by zeroing in on one particular piece of evidence and saying, "Well, that's more
+[1:04:52] probable on this hypothesis than on that one. Therefore, you need evidence to outweigh it." How much evidence is this uh is this giving you? And Draper's
+[1:05:00] response to that is, well, of course, if the only thing you were aware of was that there's a dog within 10 feet of you, that would support the hypothesis that you're in a kennel over another
+[1:05:08] hypothesis. But you have the benefit of looking around you and seeing that that you're in your office. And so yes, that
+[1:05:17] evidence by itself would point in one direction, but you have a bunch of all evidence is not equal. All evidence is not equal. And so you theists,
+[1:05:26] you theists, what is your overriding evidence that outweighs the evidence from evil? in the same way
+[1:05:34] that you know planning a looking around and seeing that he's in his office outweighs the fact that this evidence would be more probable if he were in a
+[1:05:41] dog kennel than than otherwise. So um I think Draper is right in that sense that you know Planaga does have other
+[1:05:48] evidence. The point is what what's really relevant there about Planigga's critique there is that
+[1:05:57] if we could do that we could do that with anything, right? You could have you could have any hypothesis and you could always zero in on some piece of evidence
+[1:06:05] that would favor a different hypothesis over over that hypothesis. Mhm. How much stock should you put in that?
+[1:06:11] Right. If you can do that with if you can do that any time if you can if anytime I give you a hypothesis, you can say, "Well, here's here's another
+[1:06:19] hypothesis and I'm going to look around and oh, this particular piece of evidence would fit better with that alternative hypothesis. Therefore, well, if you can always do that, then how much
+[1:06:27] evidence is it?" And you know there's something there's something wrong about that and there's something right about that. There's there's something wrong about that in the sense that we it seems
+[1:06:35] like the amount of human and animal suffering we see around us should be part of of an argument. But if you can always use this approach then how much
+[1:06:44] evidence does it actually count as? And so here you're just planning is just responding to the approach in general of
+[1:06:52] saying hey these hypotheses are you know the hypo notice the hypothesis I'm in my office versus I'm you know I'm in a dog kennel as far as intrinsic probability
+[1:06:59] there's not there's not a big difference there um and the evidence would favor one over another. So how much why should
+[1:07:07] you take these kinds of arguments seriously is is planning point. Why should you take that as a concern? In other words, if I have a hypothesis that I believe and someone says, "Ah, but
+[1:07:16] this particular piece of evidence would favor some other hypothesis," why shouldn't I just say, "I don't care." You could do that with any hypothesis I believe. You can do that with anything I believe. You can always point out
+[1:07:24] something that would fit better with some other hypothesis.
+[1:07:27] So, those are uh those are some of the um those are some of the points that were that were brought up. And I think I
+[1:07:34] have maybe six or seven chapters um that that go through some other people's responses to
+[1:07:41] um to Draper. And then and then I have I forget six or seven that are that are my own. Let let me go ahead and give you
+[1:07:49] sort of the the main one the the problem the main problem that I see. Again, there there are a bunch.
+[1:07:55] Before you do that, Before you do that, let me pull in a comment here from Landon Meto. He says Cameron is currently seriously regretting bringing
+[1:08:03] this guy on the show. Just wanted to let you know that for real. [laughter] You feel stupid now.
+[1:08:11] [snorts]
+[1:08:11] No, I I personally I I love this conversation because I the problem of evil is something that I've actually done some work on myself. I've uh I did a debate with the guy Justin Sheber when
+[1:08:20] he was still doing uh atheistic apologetics and I had a debate with him and it it was it was really fun. He he's really smart guy and I I think he
+[1:08:28] brought in a lot of Draper's arguments and and some other people. So I I was I've had the opportunity to look pretty pretty deeply into this. Probably not
+[1:08:36] nearly as deeply as you doing a whole, you know, PhD on it, but uh I still really enjoy the the whole argument. I I I just enjoy looking at
+[1:08:45] arguments against theism anyways. Just it's uh sort of a pastime for me. It's a it's a Oh, go ahead.
+[1:08:54] No, I was I was done.
+[1:08:56] No, I just let me just say that I'm super enjoying this. That the comment that I put up there was just a it was a joke. I wanted to point out how
+[1:09:03] ridiculous it was because I actually uh I'm loving every second of this. This is this is good stuff.
+[1:09:08] Yeah. And I'm I'm kind of like you in the in the in the sense that I mean one of the main reasons I focused on this was everyone was saying everyone who was
+[1:09:17] defending the evidential I mean the probabilistic or inductive version of the argument was saying that the logical argument from evil failed. But then you
+[1:09:24] had William Row and Paul Draper saying that the popular version of the evidential argument from evil also fails
+[1:09:33] because it relies on this relies on this uh assumption that we would be aware of God's reasons for doing things. And uh they're saying that there's this new argument which avoids these problems.
+[1:09:43] So, I'm just thinking, well, if this is the argument, if they're saying that other arguments from evil fail, and this is the one to go with, and they're basically saying this is the most
+[1:09:51] powerful and persuasive version of the argument from evil that we have. So, if this one's actually good, then you know,
+[1:09:58] hey, this is this is the best argument there is against theism based on evil to date. And if this argument actually fails, well, then there is none, right?
+[1:10:07] Then you can say, you know, I really don't feel good about evil or I I have a big problem with God allowing so much evil in the world, but as far as
+[1:10:15] actually using it in an argument, you can't it doesn't work. It doesn't work. And that's always that's always interesting, the idea that something can
+[1:10:24] have a kind of impression on you, but if you try to make an argument u based on it, then it doesn't always it doesn't always work out. So yeah, same ballpark
+[1:10:32] as far as hey, let let's take a look at this argument and see what's kind of the best that uh that atheists and agnostics and so on, what's the best case you can
+[1:10:40] make against against theism. So the the real you were about to give me you're about to give me like one more thing and then we got to get to some questions.
+[1:10:48] Yeah, I'll I'll give I'll give kind of uh I'll give kind of two real quick um that are that are that are connected.
+[1:10:55] But one is one notice you could totally you could totally flip this argument just by
+[1:11:02] inserting different evidence. Right? So notice you could do this with cosmic fine-tuning, right? The finetuning of
+[1:11:09] the cosmos that the uh the constants of the cosmos that that are
+[1:11:16] used in physics, they seem very very very fine-tuned to allow life. And so
+[1:11:23] you as a naturalist, you can say, well, you know, we got lucky or there's a multiverse or you can say something out there in order to in order to make those
+[1:11:31] things uh in order to reconcile that with your belief. But notice the the exact same argument would would
+[1:11:39] follow in reverse, right? You say, well, naturalism isn't much more improbable much more probable intrinsically than theism. The evidence is known to be
+[1:11:47] true. We know that, you know, these constants are the values that that they have. But the evidence would be much less surprising on theism than it is on
+[1:11:55] naturalism. In other words, if the universe is created by God to produce life, then what are the odds that the
+[1:12:04] constants of physics are going to be finely tuned to support life? Well, very very very very extremely high, right?
+[1:12:12] What are the what's the probability that these constants would be where they are if naturalism is true? Well, very very
+[1:12:19] low. these you can actually come up with some mathematical probabilities extremely low. So here's a case where the evidence massively favors theism
+[1:12:27] over naturalism. And so you could do the kind of exact same argument and just just flip it in reverse and therefore
+[1:12:34] say um that uh okay I just canceled out your your evidence against uh against
+[1:12:41] theism by balancing it. And you could notice you could do this not just by go coming in at the end and saying, "Aha,
+[1:12:48] but I've given this other reason to think that naturalism isn't more probable than theism." You can actually combine the evidence and then the
+[1:12:56] argument doesn't go anywhere. Right? So, and by the way, I actually I actually gave this argument um at at a meeting at the National Meeting of the uh Society
+[1:13:04] of Christian Philosophers and and Draper was right there. Um but think about this. If you take that argument and you see the evidence is known to be true.
+[1:13:13] Well, guess what? Suppose your evidence is tons of human and animal suffering and fine-tuning. So, you take that as one evidence thing. The universe is
+[1:13:22] finely tuned for life and there's lots of human and animal suffering. Well, then you can't say that the evidence is
+[1:13:30] much less surprising on naturalism than on theism. You just have to say, I don't know. It's going to be it's going to be like your personal preference on which which direction the evidence points.
+[1:13:40] It's going to depend on which evidence you find more persuasive or or stronger, whether it's uh cosmic fine-tuning or or evil. And so the argument doesn't
+[1:13:49] doesn't follow. And so notice just by by changing your hypothesis or by changing the evidence statement, you can get all kinds of different results. And so you
+[1:13:57] can any time someone says, "Oh, this particular piece of evidence favors this over that," you can say, "Well, yeah, but if I insert some additional evidence
+[1:14:05] in there, then it doesn't favor it anymore." And so here again, why should I take your argument as some sort of serious problem for my belief when all I
+[1:14:13] have to do is insert a little bit more evidence in there of a different kind and the argument just just just falls apart. So that's uh that's sort of one
+[1:14:20] kind of thing. But what what I want to say and this is this is kind of this is a lot of my thought on this issue. Um,
+[1:14:29] when you take something like this and you say this evidence, this evidence from human and animal suffering favors
+[1:14:35] naturalism over theism, I would say in one sense maybe, but in another sense
+[1:14:42] definitely not because everything that's assumed in order for you to have this human and animal
+[1:14:50] suffering is evidence that would favor theism over naturalism. In other words, in order to have this kind of human and
+[1:14:56] animal suffering, then one, you need a universe, and I would say a universe coming into existence massively favors
+[1:15:04] theism over naturalism. Two, you need the finetuning, cosmic fine-tuning in order to support life. I'd say that massively supports theism over
+[1:15:12] naturalism. Uh, three, you need actual life. You can have a you can build a house, that doesn't mean you actually have life. So even if you fine-tune the universe, you still don't get life. So
+[1:15:20] getting very complex biology that favors theism over naturalism. Um you can even
+[1:15:28] get more specific with like uh you know conscious creatures like ourselves arising spontaneously. Even if you say it could happen well it's much more
+[1:15:36] probable if you have a creator that's creating these sort of things. In other words, everything you actually need in order to make this argument from evil.
+[1:15:44] Everything that's presupposed in the argument favors theism over naturalism.
+[1:15:48] And so there's something weird to me about saying that all this human and animal suffering points to naturalism over theism. And so what what I would
+[1:15:57] what I would say is depends on what you mean. If you mean, hey, let's assume that we aren't aware that everything that is necessary for
+[1:16:06] this argument favors theism over naturalism. Yes, I can see you saying look at the look at all this, you know, look at all this pain and suffering in the world. This is less surprising on
+[1:16:15] naturalism than it is on theism. I can see you saying that. But why why would we do that? Why would we say, "Hey, yeah, everything that's necessary in
+[1:16:24] order to have this human and animal suffering and everything that's necessary for this argument to go through favors theism over naturalism."
+[1:16:33] And yet somehow the entire argument favors naturalism over theism and therefore theism is is probably false.
+[1:16:38] All else held equal. Something strange going on there. So that's yeah, that's as far as this type of reasoning. That's why I say, you know, it doesn't it
+[1:16:47] doesn't do a lot. At best, at at best, it's some small amount of evidence that can be easily outweighed. And what I what what I what I really want to say
+[1:16:56] here is there's got to be a better argument from evil, right? It's how do you formulate it? Because we look around
+[1:17:04] and you know, this is this is stuff that is directly relevant to my life. I have five sons. Two of them have a terminal
+[1:17:11] illness. They've had a lot of suffering in their life. And so, you know, you multiply that times tons and tons and
+[1:17:20] tons and tons and tons of instances around the world and of all kinds of, you know, of all different kinds. And I want to say that there's there's got to
+[1:17:29] be a better argument here for the atheists. It's just it's just how you actually formulate it and then show that your argument stands up to criticism.
+[1:17:38] But uh I I want to say kind of that this is better than the earlier versions because it doesn't have their shortcomings and yet seems like there
+[1:17:47] could be a stronger argument. I'm just not sure what it is.
+[1:17:51] All right, with that let's go to some questions from Sentinel Apologetics.
+[1:17:56] Thank you for your super chat. I'm waiting for it to pull up on the screen.
+[1:17:59] There it is. Can theology enter this topic? Revelation 21 1 ends with no more C. C equals chaos. Does the incarnation
+[1:18:07] hypoasis of Logos flesh via resurrection theosis solve the age-old question of chaos?
+[1:18:16] What is that word? Comth. Com.
+[1:18:22] Um what are your thoughts on that? the yeah theology can definitely enter enter the topic and uh
+[1:18:31] but as far as this argument is concerned as far as Draper's argument is concerned that would all just that would all come
+[1:18:38] in that would all come in um after the conclusion of his argument. So you could say, hey,
+[1:18:46] um, yes, this argument, if you just examine it, would provide such and such and such an amount of evidence against
+[1:18:54] theism, but here's why that doesn't uh refute Christianity. It doesn't refute Christianity. Because I know that Christianity is true because of this,
+[1:19:02] this, this, and this, and that. And um and therefore it would come down to what positive evidence do you have that outweighs it?
+[1:19:12] And Draper Draper is perfectly willing to grant that. He doesn't grant that the evidence for Christianity outweighs it.
+[1:19:17] It's just that if you have good reasons to think that Christianity is true, then it would be entirely possible for you to
+[1:19:26] um to outweigh the evidence. So yes, all of that all of that stuff is relevant discussions of you have theodysies. So the claim that God allows these things
+[1:19:34] because of free will or God allows them, you know, to build human souls and help us develop morally and spiritually and so on, those are kind of philosophical
+[1:19:43] reasons. But then you have your religious specific responses. So this would be like things like human beings
+[1:19:49] are in rebellion against God and uh so we're sinners and things like that. And so those are also those are also a part
+[1:19:58] of our our thinking on this topic. So yes, of course, as a as a Christian, then scripture would be part of your reasoning on this topic. And and
+[1:20:06] basically what we're all trying to do is we all have all the evidence around us, right? We we all we all have the same evidence. Sometimes we have access to evidence that other people don't have
+[1:20:13] access to, but in general, we're pretty familiar with the world around us. And the question is, how do we how do we
+[1:20:20] make sense of this world? And uh as a Christian, you're going to do that in in one way. And as an atheist, you're going to do that in a different way.
+[1:20:28] Okay, here's another question from Whoops, my screen just went all over the place. Let me see what's going on here.
+[1:20:35] Okay, here we go. From Gedden Dil Dilgette. Thank you for your super chat.
+[1:20:41] He says, "What is the strongest counter to your position on evil?" To my position on evil? Um,
+[1:20:50] I don't know what you mean, my position on e as far as the stuff we're talking about here. We're looking for strong arguments. And that's pretty much all you do in philosophy. You give an
+[1:20:58] argument and other people try to rip it apart. And the goal is to get to the goal is to get to stronger and stronger
+[1:21:05] um stronger and stronger arguments. So I mean if you mean my position as a
+[1:21:13] Christian, it would just be showing, you know, showing that Christianity is is false.
+[1:21:18] If if Christianity if Christianity is true, then well, guess what? the the evil and
+[1:21:25] suffering we see around us makes a lot of sense. You might want to think specifically in terms of even if you think, you know, we're in a world of
+[1:21:31] rebellion. Why does it seem so often that that uh there's not a lot of reason
+[1:21:39] behind the targets of the suffering? In other words, if there were lots of suffering, but it was like, you know, drug dealers and murderers and robbers
+[1:21:47] and stuff, and they were the ones who had the bulk of the suffering, then you could say, "Aha, it looks like looks like there's a pattern here. The worse
+[1:21:54] you are, the worse you are, the more you suffer." And that is sometimes the pattern that we see. But at other times,
+[1:22:02] you see the most innocent and the nicest and the gentlest are suffering horribly. and then you'll
+[1:22:09] see really really horrible people getting away with it through throughout their life. And so if you if you were to say what's the biggest problem, um that's probably what I would go with.
+[1:22:20] I would say it doesn't seem like there's anything that's that's selecting who catches this suffering. It seems random and that would seem to support something
+[1:22:29] like naturalism over theism. That doesn't mean that that theism is false.
+[1:22:34] It's just, you know, the theist has to have other explanations or evidence that outweighs this. So, a theist would want to respond, yeah, but you know, even good people, the the whole world, the
+[1:22:43] the world is in rebellion. The world is fallen, things like that. And so, um, yeah, you could lots of different directions you could go with that. But
+[1:22:49] if I were to really push my case against theism, it would be it wouldn't just be, hey, there's lots of suffering. It would
+[1:22:57] be kind of the distribution of the suffering. if you look at how it's distributed, doesn't look like there's a lot of reason behind it. And so if
+[1:23:05] you're a theist or if you're a Christian, you have to come up with an explanation that kind of incorporates that. And and theism theism does and Christianity does. And so this is why
+[1:23:13] it's going to come back to what evidence do you have that that Christianity is true because you can always you can always pack the things you know into your hypothesis, right? You can pack the things you know into your hypothesis.
+[1:23:26] That doesn't mean that your your hypothesis is is true. So, I think it comes down to what evidence you have for Christianity.
+[1:23:33] Okay, this is a question from Aiden Peterson. He's a supporter of ours. Hey, David, if one endorses skeptical theism, what implications do you think this has
+[1:23:42] for natural theology? Are inductive arguments out of the window?
+[1:23:47] Um, no. You you you would have to be more modest. And by the way, this is this is really the brilliance of Hume's dialogues concerning natural religion.
+[1:23:58] Lots of atheists and skeptics read it and they don't get it and they they think they get it and they don't get it
+[1:24:05] at all, but they're not getting a much more brilliant point that he's making than the stupid points they think he's making. So your your average atheist
+[1:24:13] reads Hume's dialogues and he's attacking the design argument and he's
+[1:24:20] defending the problem of evil. And then in the end when he says, "Oh, when I was attacking the design argument, I was
+[1:24:28] kind of just joking." And they say, "Oh, he's just saying that because he didn't want to be killed or something that that was that was that was published." So, what do you what do you think he was
+[1:24:36] doing that for? Oh, because, you know, he wasn't trying to hurt anyone's feelings. This is Hume we're talking about. He loved hurting people's feelings. What are you talking about here? Um, if you look at the argument
+[1:24:43] he's actually making, brilliant, brilliant, brilliant, brilliant argument. Hume's point is this.
+[1:24:50] you theists, you you could take this as a criticism both of atheism and of theism. He's saying, "Look, you theists,
+[1:24:59] what you do is you say, when you're looking at design in nature, you're saying, look at all this evidence. We have to go where the evidence points. We
+[1:25:07] can't be skeptics when it comes to this evidence. This evidence clearly points to a designer." And so he plays skeptic
+[1:25:15] in there to show that the theist is really going to put his foot down and say, "Stop being so skeptical. You just have to go with the evidence. Look at
+[1:25:23] all the evidence. It so clearly points to theism." Right? Then what happens? He switches to all the suffering we see around us. And then what he shows is suddenly the theist becomes a skeptic.
+[1:25:35] Oh well maybe it's because of this.
+[1:25:36] Maybe it's because of that. Maybe it's because of this. Maybe there's an explanation. Maybe I don't know. But don't go where the evidence points.
+[1:25:43] Right? So he's pointing out that theists are basically inconsistent skeptics. Right? But so are atheists,
+[1:25:50] right? The the atheist says, "Look at all this evidence from evil and suffering around us. Look at all this evidence. Oh my goodness, so much suffering. Clearly a god doesn't exist."
+[1:25:59] And then you point out, you know, arguments from, you know, cosmological arguments or design arguments. Suddenly they become very skeptical of those kinds of arguments. They're very no,
+[1:26:07] don't go with the don't go where the evidence points there. So he's basically pointing out you have all of these inconsistent skeptics and what he does
+[1:26:14] by the end what he does by the end in book 11. Um he point he points out that there are basically two possibilities.
+[1:26:23] You can either be a real skeptic and just say I don't know I don't know how the universe got I don't know if there's intelligence behind it or I don't know
+[1:26:31] if this this evidence from evil refutes that. I don't know any of that. I'm I'm just I'm a I'm a skeptic man. I'm skeptical about my ability to understand
+[1:26:38] these kinds of things. You can either be a skeptic, in which case you shouldn't be defending atheism. You shouldn't be defending theism. You should just say, "I don't know." Or you can be consistent
+[1:26:47] about the evidence. And he has kind of three he has kind of three things there.
+[1:26:51] One, he he says he really can't take objections to design in nature seriously, saying, "I look, I can play devil's advocate, but I can't I can't
+[1:26:58] really obviously obviously there's a designer here." So that's one. two, he he doesn't really talk about this earlier, but the uniformity of nature
+[1:27:06] points to sort of one sort of one designer. In other words, you don't go to different places and find different rules. So, that seems to suggest that
+[1:27:13] it's not a a bunch of different beings creating. So, not polytheism, it's not a bunch of different beings creating things. Um, it seems to be one. And
+[1:27:22] three, he point he points out that uh it all the suffering we see around us. So Hume's conclusion is if you really want
+[1:27:29] to go where the evidence points, if you really want to go where the evidence points, then you'd say that there is one
+[1:27:38] intelligent designer of the universe, although a kind of intelligence that we can't really understand because it's vastly beyond us. One intelligent
+[1:27:46] designer who just does not care about us at all. He's saying that's where you go with the evidence. Right? So, and by the
+[1:27:54] way, this is where Draper draws the uh hypothesis of indifference.
+[1:28:00] Whatever the cause of the universe is, it's indifferent to us. And so, um, Hume's main point is along the lines
+[1:28:08] of of what, uh, of what Aiden just pointed out. If you're going to be skeptical, if you're going to be skeptical of, if you're going to be
+[1:28:16] skeptical when atheists come at you with an argument from evil, shouldn't you also be skeptical when people are using design arguments and and things like
+[1:28:24] that? So, Humes, that argument, I think, is much more brilliant than, oh, he's attacking the design argument, which he says he says later, he doesn't even he
+[1:28:32] doesn't even really believe those those criticisms. uh he's making that much more brilliant point that look either be a skeptic and say you don't know you
+[1:28:39] just don't understand or be consistent and don't say hey the universe is created by an intelligent designer it's created by an intelligent designer who
+[1:28:47] doesn't care about us and so it's not your god it's not the god that you're thinking of I think that's a much much more sophisticated argument than what we often find but as far as as far as uh
+[1:28:56] are we being inconsistent and going to you know when we go to natural theology well a healthy do dose of skepticism
+[1:29:04] would cause you to not make more of an argument than you can. In other words, design and biology, you'd have to
+[1:29:12] conclude intelligence. If you make a really good argument, you'd have to conclude intelligence. So, you can't just come in and say, "Aha, therefore,
+[1:29:19] the god of of theism." And so there, you'd have to piece it together, but it would just be basically going beyond.
+[1:29:25] Don't go beyond what the evidence actually shows. Because when you're talking about skeptical theism, notice this isn't simply I'm being skeptical of
+[1:29:33] this argument from evil, it's I'm skeptical of the claim that I would be aware of God's reasons for doing things.
+[1:29:41] Well, guess what? That that's just any level of skepticism should should agree with that, right? So, this isn't when
+[1:29:48] you look at design in nature and you say and someone gives you an argument for the probabilities here. you look at the the argument from fine-tuning and you
+[1:29:56] look at the probabilities, it it's not just simply a matter of being skeptical. You have to be really really really really really skeptical to
+[1:30:04] avoid some of the problems that are generated for your atheism with with these probabilities. When you're talking about skeptical theism, this isn't
+[1:30:13] saying, "Hey, I'm ignoring all the evidence around me." It's saying I have to I I can't take seriously the claim that I would be aware of God's
+[1:30:21] reasons for for doing things. Uh I can't take that seriously. And so yeah, I think healthy dose of skepticism across the board, but I think I think generally
+[1:30:30] theistic philosophers uh philosophers who defend theism uh do have a a healthy dose of of skepticism when they're using these arguments. They just tend to have
+[1:30:38] some some decent arguments. And and and here here here again I have no problem with the argument from evil working. And
+[1:30:45] if you look at Draper's version of the argument, Draper's version does not depend on on this assumption. Uh he his
+[1:30:53] his argument is sort of separate. It's separate. It doesn't depend on the assumption that we would have we would be aware of God's reasons for doing
+[1:31:01] things. In fact, let me let me tell you very very quickly how Draper responds to that because that was pointed out to him that people people tried to use
+[1:31:09] skeptical theism against his argument and he pointed out yes so when I establish my probability or my
+[1:31:16] expectation how surprising is all this suffering on theism you say it's
+[1:31:22] possible that God has reasons that I am not aware of for doing for allowing all
+[1:31:30] of this he says True. That's true. But it's also possible, get your minds around this because this is a good this
+[1:31:37] is a good response to that. It's also possible that God has reasons not to allow suffering that I am not aware of.
+[1:31:44] In other words, I have reasons that I'm aware of for God not to allow suffering and I have reasons that I'm aware of for someone allowing suffering. And you're
+[1:31:52] saying, you you theists, you're you're saying, "Well, it's possible that God has reasons to allow suffering that I'm not aware of." And Draper's response is,
+[1:32:00] "Yeah, it's also possible that he has reasons for not allowing suffering that I'm not aware of. That if God existed, he would have all kinds of reasons for not allowing suffering. He would have
+[1:32:07] access to all sorts of he would be aware of all sorts of states of affairs to not allow this." In which case, I'm
+[1:32:15] basically saying, "Here's my level of expect. Here's what I would expect from from God." And you're saying, "Well, maybe it could go in this direction because of this." And I say, "Yeah,
+[1:32:23] maybe it would go in the other direction, too. So therefore, it's kind of it balances out and it's it's right where I would expect it. And so poss God's possible reasons don't affect my
+[1:32:32] probability of of all this suffering we see around us. So anyway, those are some of my thoughts on that.
+[1:32:38] Man, on that point, the last one that you just talked about with Draper, I I disagree with that completely. I I don't think that's a good response at all to skepticalism.
+[1:32:47] We could we could actually talk about that really quick because I I see another problem. I see another problem with what he just said.
+[1:32:54] uh what what what what what do you think about it?
+[1:32:57] So my my thoughts are that that doesn't actually reflect accurately depict what skeptical theism is. So like if you look
+[1:33:05] at something like what Michael Bergman has where he has these like three skeptical thesis, it's like the goods that we are aware of are not representative of all the goods that
+[1:33:13] there are. That has nothing to do with what's possible or possible reasons that God has. So I think to me it it's like a it's inaccurately depicting what
+[1:33:22] skeptical theism actually is in order to sort of give an argument against it.
+[1:33:26] It's never in my in my view it's never been about skeptical theism has never been the view that oh it's possible that God has all of these reasons. That's
+[1:33:34] never been the view. The view is that the a particular inference that's made from I can't see any reasons to
+[1:33:41] therefore it's likely that God has no reasons. Skeptical theism is really just a rejection of that kind of inference.
+[1:33:47] It's not like it's possible that God has these morally justifying reasons. So that's that's one worry and um well I I'll go ahead and let you come in
+[1:33:55] because I have other things to say but we probably need to move on.
+[1:33:58] Yeah. As far as as far as this so the point here would be in that second premise if you say the probability as
+[1:34:06] far as Draper's argument the pro the claim that the probability of human you know the kinds and diversity and so on of human animal suffering is much more probable on naturalism than on theism.
+[1:34:16] The relevance here would be well God may have reasons for allowing it and
+[1:34:22] therefore you can't say that it's at that level of probability because it could be much more probable than you're aware of if God has these other reasons.
+[1:34:34] And Draper, what's cool is he grants that. He says, "Yes, God could have all kinds of reasons for allowing all of this suffering that I'm not aware of.
+[1:34:42] But if God did exist, it it might be the case that he has reasons for allowing no suffering whatsoever. He would be aware of all kinds of additional bad states of
+[1:34:50] affairs that arise out of suffering and therefore it doesn't affect my expectation as far as what is God is what God is going to produce. So that's
+[1:34:59] his basic point. The problem with I see w with what I see is that if you take if you take that entire
+[1:35:07] response seriously he's saying you know you know if you could think of a dial here on you know the the probability of the evidence if he says okay my dial
+[1:35:16] right here is this is what this is how much suffering I would expect if God did exist maybe there's some suffering but you know it should be towards bad people
+[1:35:24] or something like that maybe I would expect something like that now you you theists you're saying but maybe the human and animal suffering is much more
+[1:35:31] probable because of you know things we're not aware of. He says yes but see I don't think it's also possible doing
+[1:35:39] no no no that that's what they that he his argument doesn't depend on an awareness assumption. So it's it's more
+[1:35:45] of an adaptation of skeptical theism to address his point. They're saying that you are not you're not accurate in your
+[1:35:54] probability assessment. Um you're not accurate. You can't be accurate with that. and he's saying, "Well, yeah, you could God's reasons, but those God's
+[1:36:03] reasons could go in in either direction." And so my my response to that is then it's not that you end up
+[1:36:10] with your original assessment. Say, "Okay, maybe God has reasons for, maybe God has more reasons against. It's not that that somehow balances you out."
+[1:36:18] It's that you should be thinking, "Here are the here are the range of possibilities. I don't know. I don't know God's reasons. God could have all kinds of reasons for God could have all
+[1:36:26] kinds of reasons against. I don't know why you'd somehow average that to your original uh assumption there. It would just seem that hey, anything that falls
+[1:36:34] within there, I don't I don't know as far as this particular argument. So, here's my expectation on naturalism and and here's my expectation on theism. I
+[1:36:42] don't know what to expect on theism because I'm not aware of of God's reasons. And so, I think it's kind of that it's it's it's not that it's not that it should
+[1:36:49] Yeah, it's Yeah, it's basically not not sure about that. And I als I also talk a little bit about that in my in my dissertation.
+[1:36:56] All right. Yeah, let's move on. We can talk about that maybe privately, but with some some of the other responses to that. All right. So, here's from SJ Fredo. He's been on the channel a bunch.
+[1:37:04] He's always saying in super chat. So, thank you so much for that. He says, "Based on your well, he he puts uh your logic in quotes. Based on your logic,
+[1:37:13] would it be fair to say God's a you a utilitarian? If not, how does your argument hold? If saying God allows evil verse Satan, how do you tell the
+[1:37:21] difference and identify the sufficient reason?" Um, I'm not aware of suggesting any
+[1:37:29] reasons that God has. I I've only put them forward as possibility because notice what what we're doing now. We're not promoting, as far as what as far as
+[1:37:38] I'm concerned, we're not promoting theism when we're examining the argument from evil. We're saying, "This is your argument. What does your argument
+[1:37:47] prove?" And so, when we say, "What does your argument prove?" It's not, "Aha, here's my position." It's here are some holes
+[1:37:55] in your argument. How would you defend against this? How would you defend this premise against this criticism? So, when
+[1:38:03] we talk about the free will defense, um again, like Planica, he he doesn't he apparently doesn't believe that there
+[1:38:10] are actually uh you know, demons demonic demonic beings. Yeah.
+[1:38:15] Pushing around tectonic plates. He's just saying for your argument to succeed that would have to not for this logical version of the argument to succeed you'd have to know that that's not possible.
+[1:38:24] How do you how do you know that that's not possible? Doesn't mean he's defending that. It means hey here's a hole in your argument. You need to change your argument so that it doesn't have this problem. And then with the uh
+[1:38:33] with the you know with the evidential version with the inductive version when people point out skeptical theism it's your argument depends on an assumption
+[1:38:42] and that assumption is indefensible. You can't defend I mean you could believe it. You could believe that if God had reasons, you'd be aware of them. But
+[1:38:50] a theist is under no obligation to agree with you. No one is under any obligation to believe you until you actually defend the premise. And then you look at
+[1:38:59] prominent defenders of the argument from evil. Paul Draper, William Row, they say, "Yep, that's a problem. That argument fails." And then the, you know,
+[1:39:07] at the popular atheist level are saying, "That argument doesn't fail. That argument is how could you defend the claim that God has these reasons?" I'm not defending it. I'm saying your
+[1:39:14] argument depends on you defending that assumption. How would you possibly defend that assumption? Because it it's indefensible. It's obvious if God
+[1:39:22] existed, God would be aware of all kinds of things that we are not aware of. And it could be things like free will. It could be his concern could be
+[1:39:29] soulbuilding. It could be a you know religious responses and object, you know, it could be a religious thing where we're in, you know, we're fallen
+[1:39:37] creatures and the world is in could be all kinds of things. And it it can be thing that it can be the idea that God is aware of all these kinds of
+[1:39:44] connections and so on that we just can't comprehend because they're too complex.
+[1:39:48] Could be all kinds of things. But this is your argument. Your argument you have to show that your argument avoids these
+[1:39:56] problems that we're pointing out. And what we see over and over again is that it's it's the the it's the defenders of the argument from evil who are
+[1:40:03] acknowledging, yeah, that's a problem for us. That's a problem. So let's go back and reformulate our argument. will come back and try to give something stronger. And there's no that's how that's how philosophy works.
+[1:40:15] All right. Uh here's another question from Russell Jones. He sent in a $100 super chat. Thank you so much, Russ.
+[1:40:21] He's actually a big supporter of the channel as well. So, uh thanks for popping on and sending in this question, Russell. He says, "Is it possible?" Oh,
+[1:40:28] no. Here's a quote. It is possible, this is the quote, it is possible that this suffering isn't necessary, end quote, seems incompatible with moderate modal
+[1:40:38] skepticism, MMS endorsed by atheist philosophers like Filipe Leon and theists like Van and Wagon. Does this
+[1:40:46] seem accurate? How could an MMS atheist endorse Rose's argument?
+[1:40:52] Moderate modal skepticism.
+[1:40:55] Um, no. I'm thinking about the first claim that that it would somehow be inconsistent with moderate modal skepticism.
+[1:41:02] It's possible that suffering isn't necessary.
+[1:41:05] I don't see why a moderate modal skeptic would reject that. It's possible.
+[1:41:11] Well, a a modal skeptic is going to be skeptic skeptical of possibility claims.
+[1:41:17] So, it is possible the suffering isn't necessary.
+[1:41:23] Those are both modal claims. And so like if a moderate modal skeptic or if a modal skeptic someone who's skeptical about our ability to pontificate about
+[1:41:32] possibility and necessity if someone is skeptical about that's not it's not that's not yeah but that's not saying that you can't
+[1:41:40] so so so someone someone like Vanwagen how how he uses this is when you say well why didn't God do make the universe like this
+[1:41:50] he why didn't God do it like this? So Vanwagen's response is, "Well, look, you have you would have to really show me what that universe would be like. You'd
+[1:41:58] have to flesh out the natural laws of the universe and show me that this would actually work out." So he's he's
+[1:42:07] skeptical in in that sense. He's skeptical in in that sense of just because you can say it's possible doesn't make it actually possible. And
+[1:42:15] so we need to be uh skeptical as far as just just saying I don't know, you know, I mean this is this is possible for all
+[1:42:22] I know. You have you have different kinds of you have different kinds of you have different kinds of possibilities,
+[1:42:29] right? Like you can have you can have logical possibility and impossibility.
+[1:42:35] Then you can have metaphysical possibility and impossibility. And then you can have nomalological possibility and impossibility as far as you know the possibility given the laws of nature.
+[1:42:45] And I I think you can be a a skeptic in in one sense. I think you could be skeptics of you know these modalities in
+[1:42:53] one sense but as far as saying well that's possible. Uh be weird to say you don't believe in in saying that's you
+[1:42:59] can say that's possible for all I know without saying that it's and I think that's what's going on in a lot of these claims. And I don't think
+[1:43:07] this always gets distinguished, but you can say possible for all I know without saying it's metaphysically possible or it's logically possible. You can say,
+[1:43:16] "Hey, I I'm actually skeptical about my ability to say what is really ultimately metaphysically possible." But I think
+[1:43:24] what's going on in a lot of these cases, you're saying possible for all I know.
+[1:43:26] And I don't think any of I don't think anyone's going to have a problem with saying this is possible for for all I know.
+[1:43:32] So in other words, you can say, "Hey, such and such is possible for all I know, but I'm not saying that it's actually
+[1:43:39] metaphysically possible or something like this or that this is necessary or that this is impossible." I don't know that all I know is possible possible as
+[1:43:47] far as as far as I know, as far as my knowledge goes.
+[1:43:50] This is getting some uh we're getting in some some real deep philosophical waters here. All right, here's a question from Joshua Anderson. And this one is a
+[1:43:58] little bit off topic, but it's still uh interesting to think about and I think we should we should raise it and get your thoughts on it. He says, "I'm a fan of both of your works. Thoughts on this?
+[1:44:08] Jesus is not the son of God because he believed in the Old Testament which has been proven by scientists and archaeologists to be mythological."
+[1:44:17] So, it's an argument against the divinity of Jesus.
+[1:44:22] Um or or just the messiahship of Jesus.
+[1:44:26] Um, yeah, I wouldn't find that argument very persuasive. Um,
+[1:44:34] yeah, my initial thought is just that like Jesus, if he if he were God or if he, you know, was who he said he was, then he would only believe true things about the Old Testament.
+[1:44:47] Yeah. the it's basically if Jesus made the claims that he made about himself
+[1:44:54] and he rose from the dead, then he he was who he claimed to be.
+[1:45:01] Even if you know, let let me let me put it this way. In order to in order to say
+[1:45:08] Jesus believed this, you're you're you're assuming you have a good idea of what Jesus said and did.
+[1:45:16] And so if you have a good idea of what Jesus said and and did, then you'd have to think, well, I have a good idea of the claims he made about himself. And um
+[1:45:24] you're still stuck with the evidence for the resurrection. And so you'd be stuck with you'd be if you think we have accurate knowledge about Jesus, then I
+[1:45:33] mean some of the best knowledge we have about Jesus would be things like he died on the cross. His followers um came to
+[1:45:40] believe that he had risen from the dead and appeared to them. he believed that he was somehow, you know, ushering in
+[1:45:48] the king of the kingdom of God. Uh believe that he's the Messiah. And so those are the the sort of strongest claims that we have about Jesus in terms
+[1:45:57] of if we're if we want to say here's what we know about the historical Jesus.
+[1:46:02] Um his particular his particular beliefs, those wouldn't be at the top of the list on the things that we have the most
+[1:46:10] evidence for knowing what what he believed. Um, so the point the only point here is if you're saying, "Hey, we have accurate information about all
+[1:46:17] these claims and Jesus beliefs and so on, then obviously you know these other things about him because you have much better evidence that he that we knew these other things." And so if you were
+[1:46:26] really convinced that he was wrong about the Old Testament and that that case would be on you that Jesus believed this certain thing that he was wrong about.
+[1:46:36] Um, then you'd have to you'd have to say, "Well, therefore his Therefore, what? That he he didn't rise
+[1:46:44] from the dead? I don't know. I I have better evidence for that than I have for the things that Jesus said. So, you'd have to prove a couple things along
+[1:46:51] along those lines. But, as a general rule, you you usually don't want to throw out your strongest evidence for for something else. If you if you take
+[1:47:01] Jesus claims about the Old Testament seriously, then you have much more evidence for other things that he said and did and believed and therefore you
+[1:47:10] have good evidence that that who he was is true. And so you might want to might want to rethink your position about uh about the argument against him.
+[1:47:20] All right, here's one more question, then we'll close this live stream out.
+[1:47:22] Is assuming that humans Whoops, it pulled up the wrong one here. That's interesting. All right, here we Let's see if this works. There we go. Uh,
+[1:47:30] super chat from backwards man. Thank you for the super chat. He says, "Is assuming that humans can't determine if gratuitous suffering exists with an
+[1:47:38] omnisient omni benevolent god an appeal to mystery or is it begging the question?"
+[1:47:46] So, it's a it's an oddly phrased. Let me read it one more time. is assuming that humans can't determine if gratuitous suffering exists with an omnisient omni
+[1:47:53] benevolent god. Is it an appeal to is that an appeal to mystery or begging the question?
+[1:47:59] I I would regard it I would regard it as stating a fact. Right. And and here the the argument is not that you should run
+[1:48:07] around in a state of confusion about what's going on. Skeptical theism is that's
+[1:48:15] just based on a fact. And the point is that this fact about the extent of our knowledge is a problem for arguments
+[1:48:25] that depend on that that claim not being true. That the the statement if God exists then he
+[1:48:32] would be aware of all kinds of things that I'm not aware of and he would be able to comprehend vastly more complex states of affairs than I'm capable of.
+[1:48:40] That he would have all kinds of reasons for doing things that I'm not aware of.
+[1:48:45] that's just indisputably true from the definition of theism and from my understanding of of what I am. And so if you come along with an argument from
+[1:48:53] evil that just assumes assumes as obviously true that if God had reasons for something I would have access to
+[1:49:01] them and I would be aware of them so that if I can't think of a reason for God to do something then well there they're probably there probably is no
+[1:49:10] such reason. That's just that is a flaw in the argument. And the only the only point there is don't make your argument
+[1:49:18] with that assumption. Don't have that assumption built into your argument.
+[1:49:21] Build construct your argument so that it avoids that and it goes just based on things that we know about and things that we are aware of. Do not do not have
+[1:49:30] as any part of your argument the assumption that we would be aware of of God's reasons. And so it's how do you formulate it without that? This isn't just uh you know I don't see how it
+[1:49:39] would be begging the question at all because this is this isn't this isn't uh us defending a theistic view by assuming
+[1:49:46] it. This is not defending anything. This is all we're doing here is just saying hey when we think of everything that could be known we know a a very very
+[1:49:55] very very small fraction of it. And so you have to formulate your argument based on that understanding and any
+[1:50:03] argument you have to you can't you can't be violating that that awareness of our own selves and our own limitations.
+[1:50:11] Yeah. So there was a there was a couple things that we did while we were talking that I think respond to this as well is that we we we talked about two different
+[1:50:18] things in particular that can motivate skeptical theism. One of those motivations is what what David mentioned earlier is that basically when we think
+[1:50:27] about how much knowledge God has like or all the knowledge that there is just like a circle like this our knowledge in comparison is going to be like a dot.
+[1:50:34] It's going to be like a tiny pin pinpoint and that is just obviously true. God is omnisient. We are not.
+[1:50:41] There's there's no denying that at all.
+[1:50:43] And there's no denying that our knowledge compared to all the knowledge there is possible is just tiny. Like that's just an obvious fact. So it's so
+[1:50:51] that's one way to motivate it. Another way to motivate it is is uh what I mentioned about complexity. So some of these goods that would justify some of these really horrible things like the
+[1:51:00] Holocaust, those goods would have to be so complex that it wouldn't be surprising if they were so complex like how all the intricate, you know,
+[1:51:08] everything is interconnected and all the different people's lives affect each other. It wouldn't be surprising that a good or if there was like some ultimate
+[1:51:16] reason why the Holocaust happened. It wouldn't be surprising if that reason was so complex that it's just beyond our cognitive uh ability to comprehend or
+[1:51:24] understand. So those are two different ways that you can motivate skeptical theism. So it doesn't amount to to question begging. I think it really is uh is is a humble position when you
+[1:51:33] think about it. It just seems sort of obvious. So doesn't have to amount to to question begging or or anything like that. So is there anything that you'd
+[1:51:41] like to uh leave the audience with David on on this subject? I know that you're thinking about doing some more work on it. So, what what do you have in mind?
+[1:51:53] Yeah, just uh I mean, since we we did talk a little bit about uh about Jesus there at the end and and I was just thinking about that while you were
+[1:52:00] talking about something like the the Holocaust or something like that.
+[1:52:03] Um if uh and then thinking back about my son and me saying, you know, he's he's he's getting these shots while I hold
+[1:52:12] him down. This guy stabs him in the leg and he's not aware of why I'm doing it.
+[1:52:16] Um and his his mind at that point is not even capable of understanding why that is in a way that you know if God has
+[1:52:24] reasons for allowing the Holocaust we may not be aware of why that is. But uh my thoughts were you know if I could get
+[1:52:31] any message across to my son in that situation he obviously isn't capable of understanding any you know sophisticated
+[1:52:40] reasons or something like that but if I could get any message across it would be you know son you know I love you so there's a reason you know it and I think
+[1:52:48] you have something like that in Christianity Jesus rose from the dead then you kind of have something like that it's kind of like guys anything
+[1:52:56] that confuses you You can you can trust me on that. I just took the worst thing that could possibly happen, God dying at
+[1:53:04] the hands of sinful human beings. Uh and I actually showed that it's the greatest thing that could ever happen. And so um
+[1:53:12] you know, usually in philosophy, they sort of isolate the the concept of God from more specific religious traditions.
+[1:53:19] So they call this the God of the philosophers. And then if you get more specific, that's called expanded theism.
+[1:53:24] It's it's theism plus. It's theism plus all these additional things. But uh you know if people are still thinking you know what about Christianity and what
+[1:53:32] about uh you know does does this teaching of Christianity actually help with this thing then with all those
+[1:53:40] kinds of things as far as hey if we don't get it well guess what if if Christianity is true if Jesus was who he
+[1:53:47] claimed to be and rose from the dead you kind of have exactly what I would want if you know I was in that situation with
+[1:53:56] my son. Hey, maybe if he can't understand everything, I at least hope he would understand there's a reason for things and that uh you know
+[1:54:04] that he shouldn't he shouldn't think that I don't love him because of this.
+[1:54:07] So um yeah, if Jesus basically if Jesus rose from the dead, Jesus died on the cross for sins. If Christianity is true, even if you don't understand something,
+[1:54:16] even if you don't get something, it should at least be in your mind. Yeah, but you know, I know even if I don't understand this or even if this goes beyond my comprehension, uh I know that
+[1:54:25] the creator of the universe nevertheless uh loves us and that there's a reason for everything.
+[1:54:30] Yeah, that that's really good. All right. Well, David, thanks for coming on. This has been a lot of fun. It's uh I know it's kind of unusual for you to talk about the subject that you spent
+[1:54:38] several years studying in in in depth, but it's uh I'm sure that you enjoyed it. We had a we had a lot of good conversations about it and thank you
+[1:54:46] guys for sending your questions for your super chats. It's been awesome. Um yeah, I think that that pretty much does it. So, thanks David for coming on.
+[1:54:55] Mhm.
+[1:54:57] Cool. All right, so I'm going to talk to the audience directly for just a second.
+[1:55:00] If you watch my live streams and and you pay attention to stuff, usually at the end of my videos is when I do announcements and talk about other things that we have going on. So, I I'm
+[1:55:09] going to do that. I'm going to take an opportunity to talk about those things.
+[1:55:11] So, one of the things that's interesting is that on Saturday, two days from now, I'm going to have my brother on the the channel. He he's going to come to my house. He's going to be sitting here
+[1:55:19] right next to me. We're going to talk about uh we're going to be answering your questions. So, my brother, if you know any of the story about behind the reasons why I'm an apologist and why I
+[1:55:27] do these things now, is because about 8 years ago at this point, my brother became an atheist. And he's still an atheist. So, he's going to be here uh with me. We're going to This is the
+[1:55:35] first time we're doing anything like this. So, it's going to be just straight Q&A. We're just going to be sitting here. He's probably going to tell some of his story, but then it's just going to be Q&A. We're just going to hang out,
+[1:55:43] have a good time. And so, if uh if you want to support the channel, check that out. Come come check it out. It's going to be on uh two days from now. So, I
+[1:55:50] think that's July I don't what what is today? Today is July 23rd, 2020. So, it'll be on July 25th, 2 days from now.
+[1:55:57] Another thing is that we're currently in the middle of producing 12 apologetics courses for beginners. And uh here's here's a list if you want to see the
+[1:56:05] list of the different courses that we have. Now, as of yesterday, we have officially recorded five of the 12
+[1:56:12] episodes or courses. And tonight, we're recording our sixth episode with Luke Barnes on the fine-tuning argument. So, what we've recorded so far is logic,
+[1:56:20] argumentation, and probability with Tim Mcgru, how can we know God exists with Tyler McNab, the contingency argument with Josh Rasmusen, the uh the argument
+[1:56:28] for the resurrection with Mike Lacona, and the problem of evil, which is interesting because it's we were talking about the problem of evil all throughout today's show. So, we did a beginner's
+[1:56:38] episode on the problem of evil with a PhD student, Justin Mooney. We recorded that yesterday. It's actually available right now on Patreon. So, if this was a
+[1:56:47] little bit over your head or you wanted to get kind of an introduction to the problem of evil, the various responses to it, this course with Justin Mooney is
+[1:56:55] going to be such an important and amazing resource for you. So, the way to access these 12 courses and to support the ministry,
+[1:57:02] patreon.com/capturingchristianity, if you just click the little arrow down below, you can actually just click the link over to our Patreon and support us
+[1:57:11] there. So, if you support the ministry at $10 a month, you get access to these courses, to all 12 of the courses. It's
+[1:57:18] just $10 a month, and that's going to help make sure that we continue to do what we're doing. We're in the process of uh doing our first conference in the
+[1:57:26] uh fall of 2021 CCV1. We've already got our lineup and everything. We're just uh waiting to hear back from a couple people on venue. So, we're raising funds
+[1:57:35] right now to be able to do conferences and some other really cool things. So anyways, if you appreciate the content we've been producing, you want to gain
+[1:57:42] access to these 12 videos and other stuff that we have going on over at our Patreon, patreon.com/capturingchristianity.
+[1:57:49] And uh thank you in advance if you're considering doing this. It really means a lot to me personally that you would want to support me and my family and this ministry. So thank you and until next time, we will see you guys later.
+[1:58:00] Remember, Christianity is true.
+[1:58:03] [music]
+[1:58:05] Hey, hey, hey.
+[1:58:34] [music]
+[1:58:39] [music]

@@ -1,0 +1,12 @@
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# IDE
+.vscode/settings.json
+*.swp
+*.swo
+
+# Temp
+*.tmp
